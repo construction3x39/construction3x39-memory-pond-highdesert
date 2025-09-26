@@ -1,0 +1,4 @@
+{:paths ["site-dsl/src" "scripts"]
+ :deps  {org.clojure/clojurescript {:mvn/version "1.11.132"}
+         org.clojure/spec.alpha   {:mvn/version "0.3.218"}
+         http-kit/http-kit        {:mvn/version "2.8.0"}}}

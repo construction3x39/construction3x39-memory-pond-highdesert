@@ -1,0 +1,20 @@
+name: CI
+on: 
+  push: 
+    branches: [ main, dev ]
+  pull_request: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cachix/install-nix-action@v27
+      - name: Install tools
+        run: |
+          nix-env -iA nixpkgs.babashka nixpkgs.clojure nixpkgs.nodejs_20 nixpkgs.zprint nixpkgs.clj-kondo
+      - name: Verify + gen
+        run: bb ci:verify
+      - name: Bundle (dev/PR)
+        if: github.ref == 'refs/heads/dev'
+        run: bb build:bundle

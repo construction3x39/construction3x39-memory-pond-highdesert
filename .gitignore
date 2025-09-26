@@ -1,0 +1,7 @@
+node_modules/
+web/build/
+.cpcache/
+.DS_Store
+*.log
+target/
+dist/

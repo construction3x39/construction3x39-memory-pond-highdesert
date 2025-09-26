@@ -1,0 +1,6 @@
+{:output {:analysis true
+          :format :text}
+ :linters {:missing-docstring {:level :info}
+           :unused-namespace {:level :warning}
+           :unresolved-symbol {:exclude [js/console]}
+           :unused-binding {:level :warning}}}

@@ -1,0 +1,3 @@
+{:width 80
+ :map {:comma? false :sort? true}
+ :remove {:fn-gt2-force-nl #{:arg1-body :arg1-extend :arg2-fn}}}
