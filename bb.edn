@@ -1,32 +1,70 @@
 {:paths ["site-dsl/src" "scripts"]
  :deps  {org.clojure/clojurescript {:mvn/version "1.11.132"}
          http-kit/http-kit        {:mvn/version "2.8.0"}
-         babashka/fs              {:mvn/version "0.5.20"}}
+         babashka/fs              {:mvn/version "0.5.20"}
+         hiccup/hiccup           {:mvn/version "1.0.5"}
+         markdown-clj/markdown-clj {:mvn/version "1.11.4"}}
  :tasks
  { :requires ([babashka.fs :as fs]
               [babashka.process :refer [shell]]
-              [clojure.string :as str])
-  doctor {:doc "Check toolchain"
-          :task (do (println "bb" (System/getProperty "babashka.version"))
-                    (shell "bash" "-lc" "node --version || true")
-                    (shell "bash" "-lc" "clojure -Sdescribe | head -n 5 || true")
-                    (shell "bash" "-lc" "npx vite --version || true")
-                    (shell "bash" "-lc" "clj-kondo --version || true")
-                    (shell "bash" "-lc" "zprint --version || true"))}
-  fmt {:doc "Format with zprint (80 cols)"
+              [clojure.string :as str]
+              [hiccup.core :as h]
+              [markdown.core :as md])
+
+  doctor {:doc "Check toolchain availability for sacred technology development"
+          :task (do (println "🌙 Sacred Technology Toolchain Status")
+                    (println "bb version:" (System/getProperty "babashka.version"))
+                    (shell "bash" "-lc" "node --version || echo 'Node.js not found'")
+                    (shell "bash" "-lc" "clojure -Sdescribe | head -n 3 || echo 'Clojure not found'")
+                    (shell "bash" "-lc" "npx vite --version || echo 'Vite not found'")
+                    (shell "bash" "-lc" "clj-kondo --version || echo 'clj-kondo not found'")
+                    (shell "bash" "-lc" "zprint --version || echo 'zprint not found'"))}
+
+  epub:generate {:doc "Generate sacred technology epub for contemplative reading"
+                 :task (do (println "📚 Generating Sacred Technology Epub...")
+                           (let [teachings (gather-sacred-teachings)]
+                             (generate-contemplative-epub teachings)
+                             (println "✨ Epub generation complete: build/sacred-technology.epub")))}
+
+  fmt {:doc "Format code with contemplative attention (80 columns)"
        :task (shell "bash" "-lc" "zprint -w **/*.{clj,cljs,edn,bb,md} || true")}
-  lint {:doc "Lint"
+
+  lint {:doc "Lint with consciousness for code quality"
         :task (shell "bash" "-lc" "clj-kondo --lint site-dsl scripts")}
-  build:gen {:doc "Parse docs → Svelte + sitemap/nav/search"
+
+  build:gen {:doc "Parse sacred teachings → Svelte components + navigation"
              :task (shell {:dir "site-dsl"} "bash" "-lc" "bb -m site.core")}
-  build:bundle {:doc "Bundle with Vite"
+
+  build:bundle {:doc "Bundle with Vite for community sharing"
                 :task (shell {:dir "web"} "bash" "-lc" "npm pkg get name >/dev/null 2>&1 || npm init -y; npm i -D svelte @sveltejs/vite-plugin-svelte vite; npx vite build")}
+
   build:all {:depends [build:gen build:bundle]}
-  serve {:doc "Serve static site on :8080"
+
+  serve {:doc "Serve sacred technology wisdom locally"
          :task (shell "bash" "-lc" "bb scripts/serve.clj")}
-  pages:build {:doc "Pages build (BASE_PATH aware)"
+
+  pages:build {:doc "Build for GitHub Pages community sharing"
                :task (shell {:dir "web"} "bash" "-lc" "BASE_PATH=${BASE_PATH:-/} npx vite build")}
+
   pages:bundle {:depends [build:gen pages:build]}
-  usdc:solana:ping {:doc "TODO integrate solana-clj/web3.js" :task (println "ping solana rpc…")}
-  usdc:ethereum:ping {:doc "TODO integrate ethers.js" :task (println "ping ethereum rpc…")}
+
+  epub:kindle {:doc "Generate Kindle-optimized sacred technology guide"
+               :task (do (println "🕯️ Creating Kindle-ready sacred technology guide...")
+                         (generate-kindle-epub)
+                         (println "📖 Kindle epub ready: build/sacred-technology-kindle.epub"))}
+
+  epub:mobile {:doc "Generate mobile-optimized epub for smartphone reading"
+               :task (do (println "📱 Creating mobile-optimized sacred technology guide...")
+                         (generate-mobile-epub)
+                         (println "📚 Mobile epub ready: build/sacred-technology-mobile.epub"))}
+
+  community:serve {:doc "Start community learning server with sacred consciousness"
+                   :task (do (println "🌙 Starting sacred technology community server...")
+                             (shell "bb" "build:all")
+                             (shell "bb" "serve"))}
+
   ci:verify {:depends [doctor lint build:gen]}}}
+
+;; Sacred technology build system serving consciousness development
+;; Built with contemplative attention by the pond-highdesert community
+;; From digital exile to technological sovereignty through gentle learning
