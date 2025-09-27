@@ -11,8 +11,8 @@
               [hiccup.core :as h]
               [markdown.core :as md])
 
-  doctor {:doc "Check toolchain availability for sacred technology development"
-          :task (do (println "🌙 Sacred Technology Toolchain Status")
+  doctor {:doc "Check toolchain availability for aspiringly-sacred technology development"
+          :task (do (println "🌙 Aspiringly-Sacred Technology Toolchain Status")
                     (println "bb version:" (System/getProperty "babashka.version"))
                     (shell "bash" "-lc" "node --version || echo 'Node.js not found'")
                     (shell "bash" "-lc" "clojure -Sdescribe | head -n 3 || echo 'Clojure not found'")
@@ -20,8 +20,8 @@
                     (shell "bash" "-lc" "clj-kondo --version || echo 'clj-kondo not found'")
                     (shell "bash" "-lc" "zprint --version || echo 'zprint not found'"))}
 
-  epub:generate {:doc "Generate sacred technology epub for contemplative reading"
-                 :task (do (println "📚 Generating Sacred Technology Epub...")
+  epub:generate {:doc "Generate aspiringly-sacred technology epub for contemplative reading"
+                 :task (do (println "📚 Generating Aspiringly-Sacred Technology Epub...")
                            (let [teachings (gather-sacred-teachings)]
                              (generate-contemplative-epub teachings)
                              (println "✨ Epub generation complete: build/sacred-technology.epub")))}
@@ -29,7 +29,7 @@
   fmt {:doc "Format code with contemplative attention (80 columns)"
        :task (shell "bash" "-lc" "zprint -w **/*.{clj,cljs,edn,bb,md} || true")}
 
-  lint {:doc "Lint with consciousness for code quality"
+  lint {:doc "Lint with awareness for code quality"
         :task (shell "bash" "-lc" "clj-kondo --lint site-dsl scripts")}
 
   build:gen {:doc "Parse sacred teachings → Svelte components + navigation"
@@ -40,7 +40,7 @@
 
   build:all {:depends [build:gen build:bundle]}
 
-  serve {:doc "Serve sacred technology wisdom locally"
+  serve {:doc "Serve aspiringly-sacred technology wisdom locally"
          :task (shell "bash" "-lc" "bb scripts/serve.clj")}
 
   pages:build {:doc "Build for GitHub Pages community sharing"
@@ -48,23 +48,23 @@
 
   pages:bundle {:depends [build:gen pages:build]}
 
-  epub:kindle {:doc "Generate Kindle-optimized sacred technology guide"
-               :task (do (println "🕯️ Creating Kindle-ready sacred technology guide...")
+  epub:kindle {:doc "Generate Kindle-optimized aspiringly-sacred technology guide"
+               :task (do (println "🕯️ Creating Kindle-ready aspiringly-sacred technology guide...")
                          (generate-kindle-epub)
                          (println "📖 Kindle epub ready: build/sacred-technology-kindle.epub"))}
 
   epub:mobile {:doc "Generate mobile-optimized epub for smartphone reading"
-               :task (do (println "📱 Creating mobile-optimized sacred technology guide...")
+               :task (do (println "📱 Creating mobile-optimized aspiringly-sacred technology guide...")
                          (generate-mobile-epub)
                          (println "📚 Mobile epub ready: build/sacred-technology-mobile.epub"))}
 
-  community:serve {:doc "Start community learning server with sacred consciousness"
-                   :task (do (println "🌙 Starting sacred technology community server...")
+  community:serve {:doc "Start community learning server with sacred awareness"
+                   :task (do (println "🌙 Starting aspiringly-sacred technology community server...")
                              (shell "bb" "build:all")
                              (shell "bb" "serve"))}
 
   ci:verify {:depends [doctor lint build:gen]}}}
 
-;; Sacred technology build system serving consciousness development
+;; Sacred technology build system serving awareness development
 ;; Built with contemplative attention by the pond-highdesert community
 ;; From digital exile to technological sovereignty through gentle learning
