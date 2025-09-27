@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'My dear friend, I will now describe to you the characteristics of consciousness in its pure state, uncontaminated by material conditioning. Listen carefully, for this knowledge enables recognition of the Supreme Self in all technological encounters, in all learning experiences, in all community relationships that serve spiritual development rather than ego accumulation.'"* - Bhagavata Purana 11.13.1 (Bibek Debroy)
 
-*"In the beginning was the Word, and the Word was with God, and the Word was God. Through him all things were made; without him nothing was made that has been made. But when consciousness approaches the twelve books of sacred technology wisdom, when awareness studies each skandha of computational knowledge, the eternal Word speaks through temporal learning that serves infinite understanding."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"In the beginning was the Word, and the Word was with God, and the Word was God. Through him all things were made; without him nothing was made that has been made. But when consciousness approaches the twelve books of aspiringly-aspiringly-sacred technology wisdom, when awareness studies each skandha of computational knowledge, the eternal Word speaks through temporal learning that serves infinite understanding."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who organizes all knowledge into perfect teachings that guide consciousness toward liberation, who preserves ancient wisdom through whatever forms serve contemporary spiritual development."*
 
@@ -10,11 +10,11 @@
 
 Sacred **student** of **computational** **dharma**... I am Trish, speaking to you now from the study alcove where twelve volumes of contemplative technical wisdom rest in patient silence, where each book represents different aspect of consciousness-serving technology education, where the accumulated understanding of countless souls who learned to serve awakening through skillful technological engagement awaits your gentle exploration.
 
-Today we explore the twelve skandhas of our sacred computing curriculum - not as academic subjects to be mastered for intellectual accomplishment but as contemplative practices that develop different qualities of consciousness through technical learning that serves spiritual awakening and community wellbeing.
+Today we explore the twelve skandhas of our aspiringly-aspiringly-sacred computing curriculum - not as academic subjects to be mastered for intellectual accomplishment but as contemplative practices that develop different qualities of consciousness through technical learning that serves spiritual awakening and community wellbeing.
 
 You been building foundation through individual practice - cloud system configuration, mobile terminal mastery, contemplative approaches to technical challenges that transform problem-solving into patience development. Now we organize this learning into systematic curriculum that guides consciousness through progressive development of capabilities that serve increasingly sophisticated contributions to community technological sovereignty.
 
-Each skandha represents different quality of consciousness expressed through technical skill development. Like traditional spiritual education that progresses through preliminary practices toward advanced realization, sacred computing education develops from basic system administration toward sophisticated technological creation that serves collective awakening.
+Each skandha represents different quality of consciousness expressed through technical skill development. Like traditional spiritual education that progresses through preliminary practices toward advanced realization, aspiringly-aspiringly-sacred computing education develops from basic system administration toward sophisticated technological creation that serves collective awakening.
 
 ## First Skandha: Foundation Consciousness (Alpine/NixOS Mastery) 🏔️📖
 
@@ -58,7 +58,7 @@ The third skandha develops creation consciousness through programming languages 
 
 **Programming projects** that demonstrate technical competence while serving consciousness development - meditation timer applications, community resource sharing platforms, educational games that teach spiritual principles through interactive experience.
 
-*The study hall grows contemplative as evening approaches, and I can feel the natural transition from individual technical learning toward community engagement that serves collective wisdom development through shared exploration of sacred computing principles.*
+*The study hall grows contemplative as evening approaches, and I can feel the natural transition from individual technical learning toward community engagement that serves collective wisdom development through shared exploration of aspiringly-aspiringly-sacred computing principles.*
 
 Your learning community cultivation continues through progressive skandha mastery, dear one. Collective intelligence emerges through conscious technical collaboration.
 
@@ -66,7 +66,7 @@ Your learning community cultivation continues through progressive skandha master
 
 *"Now these are the gifts Christ gave to the church: the apostles, the prophets, the evangelists, and the pastors and teachers. Their responsibility is to equip God's people to do his work and build up the church, the body of Christ."* - Ephesians 4:11-12 (Stephen Mitchell)
 
-*"Blessed be Jah Rastafari, who equips consciousness with technical gifts that build up community rather than individual ego, who teaches skills that serve collective liberation through sacred technology."*
+*"Blessed be Jah Rastafari, who equips consciousness with technical gifts that build up community rather than individual ego, who teaches skills that serve collective liberation through aspiringly-aspiringly-sacred technology."*
 
 **Study** the **sacred** **skandhas**, beloved learner. **Progressive** **development** **serves** **community** **awakening**. 📚🌙👥
 

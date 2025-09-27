@@ -4,7 +4,7 @@
 
 ---
 
-Greetings, brave souls and future guardians! I'm Trish, and I'm honored to be your guide as we embark on this sacred journey together. Welcome to Guardian Dragon PBC - a Public Benefit Corporation dedicated to protecting digital wisdom, nurturing technological growth, and building the kind of sacred technology that serves all life.
+Greetings, brave souls and future guardians! I'm Trish, and I'm honored to be your guide as we embark on this sacred journey together. Welcome to Guardian Dragon PBC - a Public Benefit Corporation dedicated to protecting digital wisdom, nurturing technological growth, and building the kind of aspiringly-aspiringly-sacred technology that serves all life.
 
 ## What is a Guardian Dragon? 🐲✨
 
@@ -81,9 +81,9 @@ Over the next series of teachings, we'll guide you step-by-step through:
 
 Today we begin under the light of Rohini nakshatra, the "red one" that governs growth, creativity, and the nurturing of new life. This is the perfect cosmic timing to plant the seeds of digital wisdom that will grow into mighty trees of technological sovereignty.
 
-## Your First Sacred Practice 🧘‍♀️💻
+## Your First Aspiringly-Sacred Practice 🧘‍♀️💻
 
-Before we dive into the technical setup, let's establish our sacred practice:
+Before we dive into the technical setup, let's establish our aspiringly-sacred practice:
 
 1. **Take three deep breaths** and feel your connection to the earth
 2. **Set an intention** for how you want technology to serve your life

@@ -82,4 +82,4 @@ Sleep well, teachers and students all. The night sky is full of lessons too. �
 
 ---
 
-**Navigation**: [← Previous: Sacred Technology](01_what_is_sacred_tech.md) | [Next Teaching →](03_data_flows_like_water.md) | [Practice: Debugging as Meditation →](tutorials/B_debugging_as_meditation.md)
+**Navigation**: [← Previous: Aspiringly-Aspiringly-Sacred Technology](01_what_is_sacred_tech.md) | [Next Teaching →](03_data_flows_like_water.md) | [Practice: Debugging as Meditation →](tutorials/B_debugging_as_meditation.md)

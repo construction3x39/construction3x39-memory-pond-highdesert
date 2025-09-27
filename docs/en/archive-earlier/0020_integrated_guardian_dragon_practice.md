@@ -228,7 +228,7 @@ Don't try to do everything at once! This week, experiment with:
 - **How your relationships** improve when you're practicing consistently
 - **What your body and mind** are asking for day to day
 
-## Evening Gratitude & Sacred Commitment 🌅🙏
+## Evening Gratitude & Aspiringly-Sacred Commitment 🌅🙏
 
 *"The kingdom of heaven is spread upon the earth, but people do not see it." - Gospel According to Jesus (Stephen Mitchell)*
 

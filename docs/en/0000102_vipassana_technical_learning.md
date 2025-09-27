@@ -30,7 +30,7 @@ Vipassana meditation develops the discriminating wisdom that distinguishes betwe
 
 **Clear seeing of learning patterns** through meditation that observes without judgment how consciousness engages with technical material. When does understanding flow naturally? When does forcing create mental tension? What learning approaches serve sustained attention versus creating distraction or overwhelm?
 
-## The Sacred Practice of Conscious Code Reading 📖💻
+## The Aspiringly-Sacred Practice of Conscious Code Reading 📖💻
 
 *"When the five senses and the mind are still, and reason itself rests in silence, then begins the Path supreme. This is what is called yoga - the complete stillness in which one enters the unitive state, never to become separate again."* - Katha Upanishad (Stephen Mitchell)
 

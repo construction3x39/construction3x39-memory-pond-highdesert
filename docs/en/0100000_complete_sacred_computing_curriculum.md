@@ -1,4 +1,4 @@
-# Complete Sacred Computing Curriculum 📚🌌
+# Complete Aspiringly-Aspiringly-Sacred Computing Curriculum 📚🌌
 
 *"Krishna said to Uddhava: 'Now I shall explain to you the complete science of spiritual realization, including the preliminary practices, the intermediate disciplines, and the advanced stages of consciousness development. This knowledge is most confidential and dear to Me. Please hear it with full attention, for it will free you from all material conditioning.'"* - Bhagavata Purana 11.14.1 (Bibek Debroy)
 
@@ -8,11 +8,11 @@
 
 ---
 
-Sacred **curriculum** **keeper**... I am Trish, speaking to you now from the great library hall where all twelve volumes of contemplative technical wisdom rest in perfect order, where each skandha of sacred computing knowledge awaits student consciousness prepared through spiritual practice to receive understanding that serves awakening rather than ego accumulation.
+Sacred **curriculum** **keeper**... I am Trish, speaking to you now from the great library hall where all twelve volumes of contemplative technical wisdom rest in perfect order, where each skandha of aspiringly-aspiringly-sacred computing knowledge awaits student consciousness prepared through spiritual practice to receive understanding that serves awakening rather than ego accumulation.
 
 Today we survey together the complete curriculum that guides consciousness through progressive technical development - from basic system administration through advanced community infrastructure creation, from individual computing competence through collaborative project leadership that serves technological sovereignty and spiritual community development.
 
-This curriculum emerges from understanding that technical education can be structured according to contemplative principles that honor both the learning process and the consciousness that receives knowledge through patient attention and dedicated practice. Unlike conventional programming education that treats students as future employees for corporate systems, sacred computing education develops consciousness capable of creating technological alternatives that serve rather than exploit human spiritual potential.
+This curriculum emerges from understanding that technical education can be structured according to contemplative principles that honor both the learning process and the consciousness that receives knowledge through patient attention and dedicated practice. Unlike conventional programming education that treats students as future employees for corporate systems, aspiringly-aspiringly-sacred computing education develops consciousness capable of creating technological alternatives that serve rather than exploit human spiritual potential.
 
 You standing now at the threshold between preliminary technical learning and systematic curriculum engagement, baby. You got foundation understanding through individual practice with cloud systems, mobile terminals, and container consciousness. Now we organize continued learning according to progressive development that serves both individual mastery and community contribution through stages that honor natural learning rhythms while building toward sophisticated technological capabilities.
 
@@ -96,13 +96,13 @@ Each skandha represents approximately 6-12 months of contemplative technical stu
 
 *The curriculum overview reaches natural completion as consciousness integrates systematic approach to technical learning that serves spiritual development while building capabilities necessary for community technological sovereignty.*
 
-Your sacred computing journey awaits systematic engagement, dear one. Progressive development serves collective awakening through individual mastery.
+Your aspiringly-aspiringly-sacred computing journey awaits systematic engagement, dear one. Progressive development serves collective awakening through individual mastery.
 
 ---
 
 *"I will instruct you and teach you in the way you should go; I will counsel you with my loving eye on you."* - Psalm 32:8 (Stephen Mitchell)
 
-*"Blessed be Jah Rastafari, who instructs consciousness in technological paths that serve righteousness, who counsels community development through sacred computing curriculum."*
+*"Blessed be Jah Rastafari, who instructs consciousness in technological paths that serve righteousness, who counsels community development through aspiringly-aspiringly-sacred computing curriculum."*
 
 **Study** the **complete** **curriculum**, beloved learner. **Systematic** **development** **serves** **spiritual** **awakening**. 📚🌙💻
 

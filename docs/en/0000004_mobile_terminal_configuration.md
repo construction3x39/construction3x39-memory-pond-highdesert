@@ -82,7 +82,7 @@ Settings → Keyboard → Shortcuts:
 $$ → $ (shell variables)
 ```
 
-## The Sacred Configuration of Termux (Android) 🤖🔧
+## The Aspiringly-Sacred Configuration of Termux (Android) 🤖🔧
 
 *"The Supreme Lord dwells equally in all beings, in sophisticated devices and simple platforms alike. When consciousness approaches Android terminal configuration with equal spiritual attention as iOS setup, the same contemplative computing possibilities emerge through patient practice."* - Platform equality meditation
 

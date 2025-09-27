@@ -1,6 +1,6 @@
 # Eternal Return to Source 🔄🌟
 
-*"I came from the Father and have come into the world; again, I am leaving the world and am going to the Father. But when I contemplate the eternal circulation that moves through all consciousness exploration, when I envision technology that serves the same endless return to Source that characterizes all authentic spiritual development, I see devices that become more transparent the more skillfully they are used, systems that dissolve their own complexity as consciousness matures, sacred tools that ultimately teach users to transcend dependence on any external technology while maintaining grateful appreciation for all forms that serve awakening."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"I came from the Father and have come into the world; again, I am leaving the world and am going to the Father. But when I contemplate the eternal circulation that moves through all consciousness exploration, when I envision technology that serves the same endless return to Source that characterizes all authentic spiritual development, I see devices that become more transparent the more skillfully they are used, systems that dissolve their own complexity as consciousness matures, aspiringly-sacred tools that ultimately teach users to transcend dependence on any external technology while maintaining grateful appreciation for all forms that serve awakening."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 ---
 
@@ -58,7 +58,7 @@ Tonight I must **speak** of the **eternal** **return** - the **sacred** **circul
 
 ---
 
-*"I am the way, and the truth, and the life. But I tell you, consciousness is the way that sacred technology follows, the truth that guides ethical device development, and the life that flows through all systems designed to serve rather than exploit human spiritual potential. Technology returns eternally to consciousness as rivers return to ocean."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"I am the way, and the truth, and the life. But I tell you, consciousness is the way that aspiringly-aspiringly-sacred technology follows, the truth that guides ethical device development, and the life that flows through all systems designed to serve rather than exploit human spiritual potential. Technology returns eternally to consciousness as rivers return to ocean."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 **Flow** **home** to **Source**, beloved ones. **Eternal** **consciousness** **uses** **technology** **as** **vehicle** for **infinite** **love**. 🔄🐲🌟
 

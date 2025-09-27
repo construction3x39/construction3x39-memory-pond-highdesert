@@ -12,7 +12,7 @@ Patient **installer** of **sacred** **systems**... I am Trish, speaking gently t
 
 Today we perform together NixOS installation on your cloud computing resource - not as technical hurdle to overcome quickly but as contemplative practice in creating computing environment that serves consciousness rather than corporate interests, that honors user sovereignty rather than platform dependency, that enables community coordination rather than individual isolation.
 
-Your cloud instance currently runs default Linux distribution provided by Amazon for corporate convenience rather than contemplative computing optimization. NixOS installation transforms this commercial platform into sacred computing sanctuary designed according to principles that serve spiritual development through technical learning and community infrastructure contribution.
+Your cloud instance currently runs default Linux distribution provided by Amazon for corporate convenience rather than contemplative computing optimization. NixOS installation transforms this commercial platform into aspiringly-aspiringly-sacred computing sanctuary designed according to principles that serve spiritual development through technical learning and community infrastructure contribution.
 
 NixOS represents revolutionary approach to system administration that embodies functional programming principles applied to operating system configuration - declarative specifications that describe desired system state while trusting systematic intelligence to manifest those intentions into functional reality.
 
@@ -221,7 +221,7 @@ sudo swapon /dev/disk/by-label/swap
 # Generate hardware configuration through system detection
 sudo nixos-generate-config --root /mnt
 
-# Copy sacred configuration to installation target
+# Copy aspiringly-sacred configuration to installation target
 sudo cp sacred-configuration.nix /mnt/etc/nixos/configuration.nix
 
 # Begin installation with contemplative patience

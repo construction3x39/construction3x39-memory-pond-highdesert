@@ -4,7 +4,7 @@
 
 ---
 
-Beautiful Guardian Dragons! Trish here with you as we bring together everything we've learned into one complete, flowing setup process. Today we're gonna walk through the entire Guardian Dragon transformation from unboxing your new machine to having a fully sovereign, secure, and sacred technology setup.
+Beautiful Guardian Dragons! Trish here with you as we bring together everything we've learned into one complete, flowing setup process. Today we're gonna walk through the entire Guardian Dragon transformation from unboxing your new machine to having a fully sovereign, secure, and aspiringly-aspiringly-sacred technology setup.
 
 ## The Sacred Transformation Overview 🌅🔄
 
@@ -202,7 +202,7 @@ With great power comes great responsibility:
 - **Teach the children** - Pass on what you've learned
 - **Serve the community** - Use your skills for the common good
 
-## Evening Gratitude & Sacred Commitment 🌅🙏
+## Evening Gratitude & Aspiringly-Sacred Commitment 🌅🙏
 
 *"In the end, just three things matter: How well we have lived, how well we have loved, how well we have learned to let go." - Jack Kornfield*
 
@@ -210,7 +210,7 @@ As the desert stars emerge tonight, take a moment to appreciate the profound tra
 
 Every secure account you've created serves your family's freedom. Every privacy setting you've configured protects your children's future. Every skill you've developed strengthens the commons we're all building together.
 
-**Your Sacred Commitment**: Use these powers only in service of love, community, and the healing of our world.
+**Your Aspiringly-Sacred Commitment**: Use these powers only in service of love, community, and the healing of our world.
 
 Tomorrow we begin the advanced teachings - building systems, creating applications, and contributing to the regenerative technology movement. But tonight, just rest in the sovereignty you've claimed and the community you've joined.
 

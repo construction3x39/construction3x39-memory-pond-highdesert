@@ -44,7 +44,7 @@ Technology dharma continues infinitely because consciousness discovers new ways 
 
 **Community infrastructure** requires ongoing development as communities grow, needs change, new technologies become available, and regional cooperation creates opportunities for more sophisticated collaborative systems. Infrastructure administration becomes lifetime service opportunity rather than completed project.
 
-**Research and development** continues as communities identify technological needs not served by existing tools, requiring custom solution development that might benefit broader networks of consciousness-serving technology practitioners. Open source contribution to global commons of sacred computing knowledge.
+**Research and development** continues as communities identify technological needs not served by existing tools, requiring custom solution development that might benefit broader networks of consciousness-serving technology practitioners. Open source contribution to global commons of aspiringly-aspiringly-sacred computing knowledge.
 
 *The infinite spiral recognizes no endpoint because consciousness exploration has no boundary, no final understanding that exhausts awareness potential for learning, growing, serving, and creating through whatever forms present themselves for loving attention.*
 

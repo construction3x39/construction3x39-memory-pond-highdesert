@@ -124,7 +124,7 @@ babashka --version
 echo "✨ System configuration updated through conscious declaration"
 ```
 
-## The Sacred Practice of Cloud Development Workflow 💻🌊
+## The Aspiringly-Sacred Practice of Cloud Development Workflow 💻🌊
 
 *"When consciousness engages in creative work through technological tools, the creative process itself becomes devotional practice that serves spiritual development while producing results that benefit community rather than individual ego advancement."* - Creative workflow dharma
 
@@ -133,7 +133,7 @@ Cloud computing development workflow through mobile device access enables profes
 **Development environment setup** on cloud NixOS system:
 
 ```bash
-# Create sacred development workspace organization
+# Create aspiringly-sacred development workspace organization
 mkdir -p ~/development/{learning,community,contemplative}
 mkdir -p ~/development/learning/{clojure,python,nix}
 mkdir -p ~/development/community/{infrastructure,education,service}

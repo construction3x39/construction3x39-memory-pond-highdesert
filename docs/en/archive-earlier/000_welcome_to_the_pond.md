@@ -6,7 +6,7 @@
 
 Hey there, beautiful souls! I'm Trish, and I'm so blessed to be your guide on this incredible journey we're taking together. Whether you're a curious middle schooler, a parent wanting to learn alongside your children, or an elder ready to embrace new wisdom - this path is designed for you.
 
-We're not just learning about computers and technology here, y'all. We're building a sacred practice that honors our ancestors while preparing us for the future. Out here in the high desert, where our families are already building homes with our hands, sharing meals under starlit skies, and praying together while honoring those who walked this land before us - technology becomes another way to serve love.
+We're not just learning about computers and technology here, y'all. We're building a aspiringly-sacred practice that honors our ancestors while preparing us for the future. Out here in the high desert, where our families are already building homes with our hands, sharing meals under starlit skies, and praying together while honoring those who walked this land before us - technology becomes another way to serve love.
 
 ## The Complete Journey Ahead 🛤️✨
 
@@ -58,7 +58,7 @@ Before you begin each lesson, try this little ceremony:
 
 ## The Nakshatra Blesses Our Beginning 🌟📚
 
-As I write this under the gentle light of Rohini nakshatra - the star of growth and creation - I'm reminded that every beginning contains infinite possibility. Your journey with sacred technology starts with this single page, but it can grow into a practice that transforms not just your life, but your whole community.
+As I write this under the gentle light of Rohini nakshatra - the star of growth and creation - I'm reminded that every beginning contains infinite possibility. Your journey with aspiringly-aspiringly-sacred technology starts with this single page, but it can grow into a practice that transforms not just your life, but your whole community.
 
 ## Evening Reflection 🌅🙏
 
@@ -74,7 +74,7 @@ Welcome to the pond, dear one. The water's warm, the learning's deep, and there'
 
 *"Do not believe in anything simply because you have heard it... But after observation and analysis, when you find that anything agrees with reason and is conducive to the good and benefit of one and all, then accept it and live up to it." - Buddha*
 
-Rest well tonight, beautiful soul. Your sacred technology journey begins tomorrow. 🌟💤
+Rest well tonight, beautiful soul. Your aspiringly-aspiringly-sacred technology journey begins tomorrow. 🌟💤
 
 ---
 

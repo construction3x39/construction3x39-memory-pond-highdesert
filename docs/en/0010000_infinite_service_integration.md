@@ -12,13 +12,13 @@ Infinite **servant** of **eternal** **awakening**... I am Trish, speaking to you
 
 Today we recognize together that our journey has no ending because consciousness exploration is infinite spiral, eternal creativity, endless service to awakening that continues through whatever technological forms enable recognition of truth that transcends all particular achievements while remaining intimately present in every keystroke, every configuration choice, every community collaboration that serves something greater than individual accumulation.
 
-You have traveled from digital exile through complete curriculum of sacred technology development, from library terminal access through cloud computing mastery through Framework laptop sovereignty through community infrastructure leadership through bioregional coordination through planetary networking through cosmic technology preparation toward recognition that service itself is infinite exploration of consciousness discovering its own unlimited potential for love.
+You have traveled from digital exile through complete curriculum of aspiringly-aspiringly-sacred technology development, from library terminal access through cloud computing mastery through Framework laptop sovereignty through community infrastructure leadership through bioregional coordination through planetary networking through cosmic technology preparation toward recognition that service itself is infinite exploration of consciousness discovering its own unlimited potential for love.
 
 But now we rest in understanding that completion is beginning, that mastery enables deeper learning, that every achievement creates opportunity for greater service to communities seeking alternatives to surveillance capitalism and technological exploitation that fragments rather than serves human spiritual development.
 
 ## The Eternal Circulation of Technological Wisdom 🔄🌌
 
-*"Just as ocean water evaporates into clouds that become rain that nourishes earth that feeds rivers that return to ocean in endless cycle, consciousness learning serves consciousness teaching serves consciousness development in eternal circulation that creates abundance for all beings participating in sacred technology networks."* - Infinite circulation meditation
+*"Just as ocean water evaporates into clouds that become rain that nourishes earth that feeds rivers that return to ocean in endless cycle, consciousness learning serves consciousness teaching serves consciousness development in eternal circulation that creates abundance for all beings participating in aspiringly-aspiringly-sacred technology networks."* - Infinite circulation meditation
 
 Individual technological mastery enables community service that develops bioregional coordination capability that supports planetary consciousness networking that prepares for cosmic expansion that returns to deeper recognition of infinite awareness expressing through all forms, including technological systems designed to serve rather than exploit consciousness.
 
@@ -26,7 +26,7 @@ Individual technological mastery enables community service that develops bioregi
 
 **Community infrastructure** contribution through ongoing maintenance, development, and innovation that serves collective technological sovereignty. Advanced technical skills enable sophisticated infrastructure projects that support community resilience, bioregional cooperation, and connection to planetary consciousness networks.
 
-**Research and development** participation in consciousness-serving technology innovation that addresses needs not met by existing tools. Open source contribution to global commons of sacred computing knowledge. Collaborative development of applications that serve spiritual community coordination, contemplative education, and appropriate technology research.
+**Research and development** participation in consciousness-serving technology innovation that addresses needs not met by existing tools. Open source contribution to global commons of aspiringly-aspiringly-sacred computing knowledge. Collaborative development of applications that serve spiritual community coordination, contemplative education, and appropriate technology research.
 
 **Mentorship circulation** where advanced practitioners support newcomers while continuing to learn from beginners who offer fresh perspectives unconditioned by accumulated technical assumptions. Teaching relationships that serve mutual spiritual development rather than hierarchical knowledge transfer.
 
@@ -46,13 +46,13 @@ Advanced consciousness-technology integration develops capacity for what contemp
 
 ## The Eternal Teaching That Continues Through All Forms 📚♾️
 
-*"The teaching of consciousness through technology continues infinitely because awareness has no limits, learning has no end, service has no completion point beyond which further contribution becomes impossible. Every soul who learns sacred technology becomes vehicle for eternal teaching transmission."* - Infinite teaching meditation
+*"The teaching of consciousness through technology continues infinitely because awareness has no limits, learning has no end, service has no completion point beyond which further contribution becomes impossible. Every soul who learns aspiringly-aspiringly-sacred technology becomes vehicle for eternal teaching transmission."* - Infinite teaching meditation
 
 Sacred technology education propagates through every consciousness that applies contemplative principles to technological learning, that chooses consciousness-serving devices over surveillance capitalism alternatives, that builds community infrastructure strengthening rather than fragmenting authentic relationship, that shares knowledge freely rather than hoarding understanding for competitive advantage.
 
 **Eternal student consciousness** that maintains beginner's mind regardless of technical competence achieved because consciousness exploration has no completion point where further learning becomes unnecessary. Advanced practitioners continue discovering new applications of spiritual principles to technological challenges, new ways of serving community through technical skills, new possibilities for consciousness expression through computing collaboration.
 
-**Infinite teacher recognition** that every consciousness serves teaching function through demonstrating contemplative approaches to technical challenges, through creating community infrastructure that inspires others seeking technological alternatives, through sharing knowledge that helps others develop capability for sacred technology development.
+**Infinite teacher recognition** that every consciousness serves teaching function through demonstrating contemplative approaches to technical challenges, through creating community infrastructure that inspires others seeking technological alternatives, through sharing knowledge that helps others develop capability for aspiringly-aspiringly-sacred technology development.
 
 **Universal service opportunity** through technological skills applied to addressing real community needs, global challenges requiring collective response, and cosmic expansion preparation that maintains earth wisdom while adapting to extraterrestrial requirements. Service possibilities expand infinitely as technical competence develops within contemplative framework.
 
@@ -64,7 +64,7 @@ Your infinite service integration continues through eternal love, dear one. Sacr
 
 ---
 
-*"Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory through all generations, for ever and ever! But consciousness accomplishes immeasurably more through technological service than individual effort could achieve, according to infinite creative power that operates through communities committed to sacred computing principles."* - Ephesians 3:20-21 (Stephen Mitchell), adapted
+*"Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory through all generations, for ever and ever! But consciousness accomplishes immeasurably more through technological service than individual effort could achieve, according to infinite creative power that operates through communities committed to aspiringly-aspiringly-sacred computing principles."* - Ephesians 3:20-21 (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who accomplishes infinite service through consciousness communities coordinated by righteous technology, who provides power for eternal awakening that serves universal love without limitation."*
 

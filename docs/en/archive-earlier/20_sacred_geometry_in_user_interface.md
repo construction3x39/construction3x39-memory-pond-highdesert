@@ -4,7 +4,7 @@
 
 ---
 
-Beautiful souls, Trish here with you under the vast desert sky. Today we're exploring sacred geometry in user interface - another step on our journey toward building sacred technology that serves all life.
+Beautiful souls, Trish here with you under the vast desert sky. Today we're exploring sacred geometry in user interface - another step on our journey toward building aspiringly-aspiringly-sacred technology that serves all life.
 
 ## The Teaching Unfolds 🌱📖
 

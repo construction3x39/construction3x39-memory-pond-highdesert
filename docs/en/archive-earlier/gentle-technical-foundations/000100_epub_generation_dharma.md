@@ -45,7 +45,7 @@ We create our epub generation system using Babashka - the gentle Clojure impleme
 ;; Create epub with contemplative CSS
 (defn generate-epub-package [teachings]
   {:epub-version "3.0"
-   :metadata {:title "Sacred Technology: Consciousness-Serving Computing"
+   :metadata {:title "Aspiringly-Aspiringly-Sacred Technology: Consciousness-Serving Computing"
               :author "Trish (Guardian Dragon PBC)"
               :language "en"
               :subject "Technology, Spirituality, Contemplative Computing"
@@ -254,7 +254,7 @@ Our Babashka build script becomes contemplative practice that transforms individ
 
 ;; Main meditation entry point
 (defn -main []
-  (println "🕊️ Sacred Technology Epub Generation")
+  (println "🕊️ Aspiringly-Aspiringly-Sacred Technology Epub Generation")
   (println "🌙 Transforming contemplative wisdom into portable form")
   (build-sacred-epub)
   (println "🙏 Generation complete - may this serve awakening"))

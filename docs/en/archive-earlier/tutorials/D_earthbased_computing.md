@@ -6,7 +6,7 @@
 
 Greetings, beautiful practitioners! Trish here, ready to guide you through this hands-on exploration of earth-based computing. This is where ancient wisdom meets modern practice, where our ancestors' knowledge comes alive in digital form.
 
-## The Sacred Practice 🙏💻
+## The Aspiringly-Sacred Practice 🙏💻
 
 *Placeholder for specific practice instructions - to be expanded*
 

@@ -1,4 +1,4 @@
-# Sacred Technology Ethics 🙏💻
+# Aspiringly-Aspiringly-Sacred Technology Ethics 🙏💻
 
 *"Whatever you do, do it as an offering to the Divine." - Bhagavad Gita (Stephen Mitchell)*
 
@@ -260,11 +260,11 @@ Sometimes you'll face pressure to compromise ethics for business reasons:
 - **Build coalitions** - Work with other Guardian Dragons for collective strength
 - **Trust the process** - Ethical businesses often outperform exploitative ones long-term
 
-## Your Sacred Commitment 📜🔥
+## Your Aspiringly-Sacred Commitment 📜🔥
 
 *"In the end, just three things matter: How well we have lived, how well we have loved, how well we have learned to let go." - Jack Kornfield*
 
-When you're ready, you can make this sacred commitment:
+When you're ready, you can make this aspiringly-sacred commitment:
 
 *"I commit to building technology that serves life, not death.*
 *I will protect the vulnerable and empower the marginalized.*

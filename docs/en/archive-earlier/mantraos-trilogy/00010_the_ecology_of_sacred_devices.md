@@ -24,7 +24,7 @@ When families gather for **collaborative learning**, MantraBoxes can **pool thei
 
 ## The Circular Economy of Consciousness 🔄💫
 
-But the **ecological principles** that guide mantraOS design extend far beyond **device interaction** to encompass the **entire lifecycle** of **sacred technology**. Every MantraBox and MantraPhone is designed according to what **biomimicry researchers** call **cradle-to-cradle principles** - **production processes** that **mimic natural systems** where **waste from one process** becomes **input for another**.
+But the **ecological principles** that guide mantraOS design extend far beyond **device interaction** to encompass the **entire lifecycle** of **aspiringly-aspiringly-sacred technology**. Every MantraBox and MantraPhone is designed according to what **biomimicry researchers** call **cradle-to-cradle principles** - **production processes** that **mimic natural systems** where **waste from one process** becomes **input for another**.
 
 The **rare earth minerals** required for MantraPhone construction are **sourced through partnerships** with communities **affected by mining** - **agreements** that ensure the **full ecological cost** of these **miraculous devices** includes the **restoration and healing** necessary to **balance their creation**. But more profoundly, each device includes **built-in incentives** for **component reuse** and **material cycling**.
 

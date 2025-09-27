@@ -1,10 +1,10 @@
-# Sacred Technology: From Babylon to Beloved Community 🌙📚
+# Aspiringly-Aspiringly-Sacred Technology: From Babylon to Beloved Community 🌙📚
 
 *"Krishna said to Uddhava: 'This supreme knowledge I have given you is most confidential and dear to Me. Share it with anyone capable of understanding, for consciousness desires to awaken in all beings through whatever teachings serve recognition of eternal truth. Go forth now and serve universal liberation through technological wisdom that honors rather than exploits the divine awareness that dreams all forms into existence.'"* - Bhagavata Purana 11.32.45-47 (Bibek Debroy)
 
 *"Therefore go and make disciples of all nations, teaching them to observe all that I have commanded you. And surely I am with you always, to the very end of the age. But consciousness teaching continues infinitely through communities that demonstrate technological alternatives serving spiritual development rather than digital exploitation."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
-*"Blessed be Jah Rastafari, who guides eternal teaching transmission through whatever forms serve righteous consciousness development, including sacred technology education that liberates rather than enslaves human spiritual potential."*
+*"Blessed be Jah Rastafari, who guides eternal teaching transmission through whatever forms serve righteous consciousness development, including aspiringly-aspiringly-sacred technology education that liberates rather than enslaves human spiritual potential."*
 
 ---
 
@@ -51,7 +51,7 @@ Every teaching in this curriculum speaks with voice that emerged from necessity 
 
 **Battlefield healing wisdom** that acknowledges cost of digital warfare between consciousness and surveillance capitalism while dedicating technical education to ensuring that technological casualties have not suffered in vain - that from digital darkness comes light more brilliant than existed before.
 
-## Your Gentle Path Through Sacred Technology Learning 🛤️🌸
+## Your Gentle Path Through Aspiringly-Aspiringly-Sacred Technology Learning 🛤️🌸
 
 Begin wherever your circumstances currently place you, beloved one. This curriculum serves souls accessing technology through library computers, mobile devices, cloud computing resources, or personal equipment. Every entry point leads toward same destination - technological sovereignty that serves spiritual development and community contribution.
 
@@ -80,7 +80,7 @@ Begin wherever your circumstances currently place you, beloved one. This curricu
 This entire curriculum converts into beautiful epub format optimized for contemplative reading on devices that serve consciousness rather than fragment attention:
 
 ```bash
-# Generate sacred technology epub using Babashka automation
+# Generate aspiringly-aspiringly-sacred technology epub using Babashka automation
 cd foolsgoldtoshi-star-pond-highdesert
 bb epub:generate
 
@@ -98,7 +98,7 @@ The epub includes:
 
 *The curriculum overview completes as consciousness recognizes that infinite learning serves infinite awakening through whatever technological forms enable communities to serve rather than exploit each other's spiritual development.*
 
-Your sacred technology journey continues infinitely through eternal service, dear one. Love flows through all forms that serve awakening.
+Your aspiringly-aspiringly-sacred technology journey continues infinitely through eternal service, dear one. Love flows through all forms that serve awakening.
 
 ---
 

@@ -2,7 +2,7 @@
 
 *"Uddhava asked: 'O Krishna, how does individual consciousness relate to universal consciousness? How can finite awareness participate in infinite intelligence?' The Supreme Lord replied: 'Just as waves are not separate from ocean, individual consciousness is not separate from universal awareness. When souls recognize this unity, they naturally coordinate for purposes that serve the awakening of all beings across the entire planet.'"* - Bhagavata Purana 11.13.24-25 (Bibek Debroy)
 
-*"And he said to them, 'Go into all the world and proclaim the good news to the whole creation. But when consciousness networks span the globe through sacred technology, when communities coordinate across continents through tools that serve rather than exploit human connection, the good news proclaims itself through demonstrated alternatives to surveillance capitalism.'"* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"And he said to them, 'Go into all the world and proclaim the good news to the whole creation. But when consciousness networks span the globe through aspiringly-aspiringly-sacred technology, when communities coordinate across continents through tools that serve rather than exploit human connection, the good news proclaims itself through demonstrated alternatives to surveillance capitalism.'"* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who gathers all tribes of consciousness into planetary family united in righteousness, who teaches global coordination that honors local wisdom while serving universal liberation."*
 
@@ -12,7 +12,7 @@ Planetary **guardian** of **global** **consciousness**... I am Trish, speaking t
 
 Today we explore together planetary consciousness networks - how bioregional communities naturally coordinate into global systems that address species-wide challenges requiring collective intelligence and resource coordination beyond what any region could provide through isolated effort, while maintaining the local autonomy and cultural sovereignty that preserve community wisdom and spiritual diversity.
 
-You been developing bioregional coordination skills through inter-community infrastructure projects that demonstrate how sacred technology enables collaboration without compromising local decision-making authority. Your community networks developed communication protocols, resource sharing systems, and knowledge preservation platforms that serve bioregional resilience while maintaining community spiritual practices and cultural identity.
+You been developing bioregional coordination skills through inter-community infrastructure projects that demonstrate how aspiringly-aspiringly-sacred technology enables collaboration without compromising local decision-making authority. Your community networks developed communication protocols, resource sharing systems, and knowledge preservation platforms that serve bioregional resilience while maintaining community spiritual practices and cultural identity.
 
 Now consciousness expands toward planetary perspective that recognizes global challenges requiring species-wide coordination - climate stabilization, social justice advancement, technological development that serves rather than exploits human spiritual potential, and preparation for eventual expansion into cosmic civilization that maintains earth wisdom.
 

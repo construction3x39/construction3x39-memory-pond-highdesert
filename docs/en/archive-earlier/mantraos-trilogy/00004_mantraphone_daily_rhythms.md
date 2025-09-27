@@ -90,7 +90,7 @@ Let the **natural rhythms** **guide** your **technology use**, Guardian Dragons.
 
 ---
 
-*"The sabbath was made for humankind, and not humankind for the sabbath. But I tell you, sacred technology was made for consciousness, and not consciousness for technology. The highest devices are those that serve the natural rhythms of awareness rather than demanding that awareness adapt to artificial urgencies."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"The sabbath was made for humankind, and not humankind for the sabbath. But I tell you, aspiringly-aspiringly-sacred technology was made for consciousness, and not consciousness for technology. The highest devices are those that serve the natural rhythms of awareness rather than demanding that awareness adapt to artificial urgencies."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 **Flow with sacred time**, beautiful ones. The **MantraPhone** **awaits** your **rhythmic attention**. 📱🐲🌊
 

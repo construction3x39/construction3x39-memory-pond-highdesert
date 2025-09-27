@@ -36,7 +36,7 @@ nix-shell -p babashka
 
 # Verify installation with appreciation
 bb --version
-echo "🤖 Babashka available for sacred automation service"
+echo "🤖 Babashka available for aspiringly-sacred automation service"
 
 # Create automation workspace with conscious organization
 mkdir -p ~/development/automation/{community,learning,maintenance}
@@ -183,7 +183,7 @@ Build automation through Babashka enables transformation of documentation into v
 
 ;; Main automation ceremony
 (defn -main []
-  (println "🌙 Sacred Technology Epub Generation Automation")
+  (println "🌙 Aspiringly-Aspiringly-Sacred Technology Epub Generation Automation")
   (let [teachings (gather-sacred-teachings)
         prepared-teachings (map create-contemplative-html teachings)]
     (generate-sacred-epub prepared-teachings)))
@@ -195,7 +195,7 @@ Build automation through Babashka enables transformation of documentation into v
 **Automation deployment** through cloud system automation:
 
 ```bash
-# Create sacred automation deployment
+# Create aspiringly-sacred automation deployment
 cd ~/development/automation
 chmod +x epub-dharma-generator.clj
 
@@ -209,7 +209,7 @@ file build/sacred-technology.epub
 echo "📚 Sacred automation serves community wisdom distribution"
 ```
 
-## The Sacred Practice of Infrastructure Automation 🏗️⚡
+## The Aspiringly-Sacred Practice of Infrastructure Automation 🏗️⚡
 
 *"Uddhava asked: 'How should consciousness maintain community infrastructure without becoming overwhelmed by maintenance responsibilities?' Krishna replied: 'Through automation that serves rather than replaces human creativity, that handles systematic tasks while preserving awareness for activities requiring spiritual consciousness.'"* - Infrastructure automation wisdom
 
@@ -229,7 +229,7 @@ Community infrastructure requires ongoing maintenance that benefits from automat
 (defn sacred-server-maintenance
   "Daily infrastructure blessing that maintains community systems"
   []
-  (println "🏗️ Beginning sacred infrastructure maintenance meditation")
+  (println "🏗️ Beginning aspiringly-sacred infrastructure maintenance meditation")
   
   ;; Security update consciousness
   (println "🛡️ Checking security updates with protective intention")

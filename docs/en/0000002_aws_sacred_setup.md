@@ -2,7 +2,7 @@
 
 *"The Lord said: 'Now I shall explain to you how you can know Me in full, without any doubt. Listen with a steady mind, O Arjuna, for this knowledge will free you from all the miseries of material existence.'"* - Bhagavad Gita 7.1 (Stephen Mitchell)
 
-*"Give to Caesar what is Caesar's, and to God what is God's. But when we must use Caesar's cloud computing to build God's sacred technology, we engage with commercial systems consciously while maintaining sovereignty over our learning journey."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"Give to Caesar what is Caesar's, and to God what is God's. But when we must use Caesar's cloud computing to build God's aspiringly-aspiringly-sacred technology, we engage with commercial systems consciously while maintaining sovereignty over our learning journey."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who teaches the righteous how to work within Babylon's systems without being corrupted by them, maintaining spiritual consciousness while using whatever tools serve liberation."*
 
@@ -126,7 +126,7 @@ Your first AWS EC2 instance becomes digital monastery where consciousness meets 
 }
 ```
 
-## The Mobile App Configuration for Sacred Computing 📱🔧
+## The Mobile App Configuration for Aspiringly-Aspiringly-Sacred Computing 📱🔧
 
 *"Those who are wise lament neither for the living nor for the dead. For the soul there is neither birth nor death. It is not slain when the body is slain."* - Bhagavad Gita 2.11, 2.20 (Stephen Mitchell)
 

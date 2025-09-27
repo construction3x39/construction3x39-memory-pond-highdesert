@@ -236,7 +236,7 @@ Take a moment to appreciate what you've built today:
 - ✅ **Communication channels** (Signal, Discord)
 - ✅ **Professional identity** consistent across platforms
 
-### **Your Sacred Practice Tonight** 🧘‍♀️🌙
+### **Your Aspiringly-Sacred Practice Tonight** 🧘‍♀️🌙
 
 Before sleep:
 1. **Review all new accounts** in 1Password - ensure everything is secure

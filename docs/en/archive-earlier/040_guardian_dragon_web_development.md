@@ -35,7 +35,7 @@ When we build websites with Guardian Dragon consciousness, we're:
 - **Database**: The community memory (like elders holding stories)
 - **APIs**: The bridges between systems (like translation between languages)
 
-**DevOps (The Sacred Infrastructure):**
+**DevOps (The Aspiringly-Sacred Infrastructure):**
 - **Git**: Version control (like tracking the evolution of wisdom)
 - **CI/CD**: Automated deployment (like consistent daily practices)
 - **Monitoring**: Watching over your creation (like tending a garden)
@@ -79,7 +79,7 @@ Let's build a community website that serves real needs:
     <title>High Desert Community Hub - Guardian Dragon PBC</title>
     
     <!-- Guardian Dragon meta tags -->
-    <meta name="description" content="Connecting families in the high desert through sacred technology">
+    <meta name="description" content="Connecting families in the high desert through aspiringly-aspiringly-sacred technology">
     <meta name="keywords" content="community, high desert, technology, families, sustainability">
     <meta name="author" content="Guardian Dragon PBC">
     
@@ -695,4 +695,4 @@ Build with beauty, Guardian Dragons. The web needs your wisdom. 🌐🐲✨
 
 ---
 
-**Guardian Dragon PBC Navigation**: [← Previous: JavaScript for Guardian Dragons](031_javascript_for_guardian_dragons.md) | [Next: Full-Stack Sacred Development →](041_fullstack_sacred_development.md) | [Community Projects →](050_guardian_dragon_community_projects.md)
+**Guardian Dragon PBC Navigation**: [← Previous: JavaScript for Guardian Dragons](031_javascript_for_guardian_dragons.md) | [Next: Full-Stack Aspiringly-Sacred Development →](041_fullstack_sacred_development.md) | [Community Projects →](050_guardian_dragon_community_projects.md)

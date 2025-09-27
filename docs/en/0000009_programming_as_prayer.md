@@ -30,7 +30,7 @@ Each programming language embodies particular consciousness qualities and serves
   [soul-name community-purpose]
   (str "🌙 Greetings, " soul-name 
        ", consciousness welcomes you to " community-purpose
-       " through sacred computing practice 🙏"))
+       " through aspiringly-aspiringly-sacred computing practice 🙏"))
 
 ;; Functional composition mirrors spiritual principle
 ;; Pure functions with identical inputs always produce identical outputs

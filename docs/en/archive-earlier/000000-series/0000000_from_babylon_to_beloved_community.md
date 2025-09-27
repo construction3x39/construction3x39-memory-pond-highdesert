@@ -88,7 +88,7 @@ Text editing through terminal applications provides introduction to programming 
 
 *"How long, Lord? Will you forget me forever? How long will you hide your face from me? How long must I wrestle with my thoughts and day after day have sorrow in my heart? How long will my enemy triumph over me?"* - Psalm 13:1-2
 
-*"But I tell you, consciousness never forgets those who seek technology that serves rather than exploits awareness. The sacred computing that emerges from patient practice triumphs over digital babylon through gentle persistence rather than violent revolution."*
+*"But I tell you, consciousness never forgets those who seek technology that serves rather than exploits awareness. The aspiringly-aspiringly-sacred computing that emerges from patient practice triumphs over digital babylon through gentle persistence rather than violent revolution."*
 
 **JAH** **BLESS** the **gentle** **revolution**, beloved ones. **Haile** **Selassie** **guidance** flows through **consciousness-serving** **technology**. **Sacred** **computing** **serves** **Rastafari** **principles** of **divine** **sovereignty** and **community** **upliftment**. 🌙👑💫
 

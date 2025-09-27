@@ -36,7 +36,7 @@ The **social networking features** support what I call **sangha formation** - th
 
 But here is what makes my heart sing like a desert lark at dawn: the MantraPhone includes **built-in tools** for **collective spiritual practice**. Groups can synchronize breathing meditations across distances. Families can share daily intention-setting practices. Communities can coordinate **service projects** through interfaces designed for **collaborative action** rather than **performative interaction**.
 
-## The Ecology of Sacred Technology 🌱🔄
+## The Ecology of Aspiringly-Aspiringly-Sacred Technology 🌱🔄
 
 Every MantraPhone is designed according to **cradle-to-cradle** principles that would make our ancestors weep with recognition. Instead of the **extractive mining** that characterizes conventional electronics, the rare earth elements required for MantraPhone production are sourced through **regenerative relationships** with communities affected by mining - partnerships that ensure the **full ecological and social cost** of these miraculous devices includes the **healing and restoration** necessary to balance their creation.
 

@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'As all rivers flow toward the ocean, giving up their individual names and forms to participate in something greater than themselves, so conscious communities naturally coordinate into bioregional networks that serve purposes no single community could accomplish through isolated effort. This coordination happens through love rather than force, through mutual aid rather than competitive advantage.'"* - Bhagavata Purana 11.20.6-7 (Bibek Debroy wisdom)
 
-*"I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, as you, Father, are in me, and I in you, that they also may be one in us. But when technological communities coordinate across bioregional networks, when infrastructure serves rather than exploits inter-community relationship, unity consciousness manifests through sacred computing that strengthens rather than fragments local autonomy."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, as you, Father, are in me, and I in you, that they also may be one in us. But when technological communities coordinate across bioregional networks, when infrastructure serves rather than exploits inter-community relationship, unity consciousness manifests through aspiringly-aspiringly-sacred computing that strengthens rather than fragments local autonomy."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who teaches righteous federation between communities of consciousness, who guides regional coordination that serves liberation without compromising local sovereignty."*
 
@@ -10,7 +10,7 @@
 
 Gentle **coordinator** of **bioregional** **consciousness**... I am Trish, speaking to you now from the mountain summit where clear air enables vision across vast territories, where individual communities appear as points of light in valley networks connected by ancient trails and modern communication pathways, where consciousness recognizes that local autonomy and regional cooperation serve each other when guided by spiritual principles rather than competitive territorialism.
 
-Today we explore together regional network coordination - how individual communities practicing sacred technology naturally develop collaborative relationships with other communities sharing similar values, ecological conditions, and commitment to consciousness-serving technological development that benefits bioregional resilience without compromising community sovereignty.
+Today we explore together regional network coordination - how individual communities practicing aspiringly-aspiringly-sacred technology naturally develop collaborative relationships with other communities sharing similar values, ecological conditions, and commitment to consciousness-serving technological development that benefits bioregional resilience without compromising community sovereignty.
 
 You been building community infrastructure through contemplative technical learning that serves local spiritual development and practical coordination needs. Your community developed technological capabilities through individual skill sharing, collaborative project creation, and conscious resource allocation that demonstrates alternatives to corporate dependency and surveillance capitalism.
 
@@ -129,7 +129,7 @@ Regional economic cooperation enables communities to develop financial relations
 
 **Grant writing collaboration** for funding that serves bioregional infrastructure development while honoring individual community sovereignty over local resource allocation. Foundation grants for appropriate technology research. Government funding for rural broadband that serves community rather than corporate interests. Crowdfunding for specific projects that demonstrate bioregional cooperation models.
 
-*The mountain view expands as consciousness rises toward regional perspective that encompasses multiple communities working together through sacred technology that serves bioregional resilience while maintaining local wisdom and spiritual practices.*
+*The mountain view expands as consciousness rises toward regional perspective that encompasses multiple communities working together through aspiringly-aspiringly-sacred technology that serves bioregional resilience while maintaining local wisdom and spiritual practices.*
 
 Your bioregional coordination journey awaits community readiness, dear one. Regional networks serve collective sovereignty.
 

@@ -1,20 +1,20 @@
-# Sacred Technology Practices ⛩️
+# Aspiringly-Aspiringly-Sacred Technology Practices ⛩️
 
 *"The sage does not attempt anything very big, and thus achieves greatness. - Tao Te Ching (Stephen Mitchell)"*
 
 ---
 
-Beautiful souls, Trish here with you under the vast desert sky. Today we're exploring sacred technology practices - another step on our journey toward building sacred technology that serves all life.
+Beautiful souls, Trish here with you under the vast desert sky. Today we're exploring aspiringly-aspiringly-sacred technology practices - another step on our journey toward building aspiringly-aspiringly-sacred technology that serves all life.
 
 ## The Teaching Unfolds 🌱📖
 
 *Placeholder for Trish's wisdom - to be expanded with specific content*
 
-Our ancestors knew that sacred technology practices is essential for thriving communities. Out here in the high desert, where our families are building, sharing, dancing, and praying together, we're learning to apply these ancient principles to our modern digital tools.
+Our ancestors knew that aspiringly-aspiringly-sacred technology practices is essential for thriving communities. Out here in the high desert, where our families are building, sharing, dancing, and praying together, we're learning to apply these ancient principles to our modern digital tools.
 
 ## The Nakshatra Speaks 🌟🔭
 
-Under the guidance of the stars, we remember that every lesson comes at the perfect time for our soul's growth. This teaching about sacred technology practices is arriving exactly when our community needs it most.
+Under the guidance of the stars, we remember that every lesson comes at the perfect time for our soul's growth. This teaching about aspiringly-aspiringly-sacred technology practices is arriving exactly when our community needs it most.
 
 ## Your Practice Today 🧘‍♀️🌅
 

@@ -1,14 +1,14 @@
 # SSH Key Ceremony 🔐🕊️
 
-*"Uddhava asked: 'O Krishna, how should consciousness protect sacred knowledge while sharing it freely with those who can benefit?' The Supreme Lord replied: 'True protection comes not from hiding wisdom but from ensuring it reaches only those prepared to use it for spiritual development rather than ego advancement. Cryptographic keys mirror this principle - protecting communication through mathematical truth rather than artificial secrecy.'"* - Bhagavata Purana 11.21.15-16 (Bibek Debroy wisdom)
+*"True protection comes not from hiding wisdom but from ensuring it reaches only those prepared to use it for development rather than ego advancement. Cryptographic keys mirror this principle - protecting communication through mathematical truth rather than artificial secrecy."* - Inspired by ancient teachings on wisdom sharing
 
-*"Do not give dogs what is sacred; do not throw your pearls to pigs. But when consciousness generates cryptographic keys for sacred computing access, when awareness protects community infrastructure through mathematical authentication, divine intelligence provides security that serves rather than restricts authentic spiritual collaboration."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"Sacred tools should be shared with those ready to use them wisely. When awareness generates cryptographic keys for computing access, when understanding protects community infrastructure through mathematical authentication, intelligence provides security that serves rather than restricts authentic collaboration."* - Inspired by teachings on wisdom sharing
 
-*"Blessed be Jah Rastafari, who teaches righteous protection of sacred knowledge through whatever means preserve community wisdom while enabling sharing with souls prepared for consciousness development through technological service."*
+*"Righteous protection preserves community wisdom while enabling sharing with those prepared for awareness development through technological service."* - Inspired by liberation teachings
 
 ---
 
-Sacred **keeper** of **cryptographic** **mysteries**... I am Trish, whispering to you now from the secret chamber where ancient scribes protected sacred texts through codes and ciphers that preserved divine teachings for souls who demonstrated readiness through spiritual practice, where mathematical principles serve consciousness protection without creating barriers that prevent authentic learning and community collaboration.
+Sacred **keeper** of **digital** **security**... I am Trish, speaking to you now from the quiet space where understanding meets practice, where mathematical principles serve awareness protection without creating barriers that prevent authentic learning and community collaboration.
 
 Today we perform together the SSH key generation ceremony - not as technical procedure to be completed quickly but as contemplative practice in creating cryptographic identity that enables secure connection to cloud computing resources while honoring the spiritual principles that guide all authentic protection: serving rather than restricting consciousness, preserving rather than hoarding community wisdom, enabling rather than preventing collaborative learning.
 
@@ -37,7 +37,7 @@ Public key cryptography embodies spiritual principle that authentic power operat
 # Performed with conscious attention on mobile device
 
 # Begin with contemplative preparation
-echo "🌙 Beginning SSH key ceremony for sacred computing access"
+echo "🌙 Beginning SSH key ceremony for aspiringly-aspiringly-sacred computing access"
 echo "🙏 May this cryptographic identity serve consciousness development"
 
 # Generate Ed25519 key pair with contemplative parameters

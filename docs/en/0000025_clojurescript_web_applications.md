@@ -145,7 +145,7 @@ ClojureScript and Svelte integration enables web development that serves communi
          (defn main-app []
            [:div.sacred-app
             [:header.app-header
-             [:h1 \"🌙 Sacred Technology Community\"]
+             [:h1 \"🌙 Aspiringly-Aspiringly-Sacred Technology Community\"]
              [:p \"Web coordination serving consciousness development\"]]
             [:main.app-main
              [community-member-list]

@@ -319,7 +319,7 @@ Next we'll:
 - Begin your first coding project to test the entire setup
 - Connect with the Guardian Dragon community
 
-### **Your Sacred Practice Tonight** 🧘‍♀️💫
+### **Your Aspiringly-Sacred Practice Tonight** 🧘‍♀️💫
 
 Before bed:
 1. **Close all applications** mindfully, thanking each one for its service

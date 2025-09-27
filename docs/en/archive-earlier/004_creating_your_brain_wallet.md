@@ -16,7 +16,7 @@ Think of it like this:
 - **Your ancestors** carried their most precious knowledge in their hearts and minds
 - **Guardian Dragons** carry their digital sovereignty in brain wallets
 - **Taking Dragons** want you dependent on their password recovery systems
-- **We choose freedom** through sacred memory practices
+- **We choose freedom** through aspiringly-sacred memory practices
 
 ## The Sacred Science of Memory 🧘‍♀️🔬
 
@@ -121,7 +121,7 @@ Connect each element to:
 - An emotion or spiritual feeling
 - A physical gesture or movement
 
-## The Sacred Practice of Memorization 📚🙏
+## The Aspiringly-Sacred Practice of Memorization 📚🙏
 
 *"The soul is neither born, nor does it die." - Bhagavad Gita (Stephen Mitchell)*
 
@@ -215,7 +215,7 @@ Tonight the moon dances through Dhanishta, the "most famous" star that governs r
 4. **Review account activity** for any suspicious access
 5. **Learn from the experience** to strengthen future security
 
-## Your Sacred Practice This Week 🧘‍♀️📅
+## Your Aspiringly-Sacred Practice This Week 🧘‍♀️📅
 
 *"Practice makes perfect, but perfect practice makes permanent." - Vince Lombardi*
 

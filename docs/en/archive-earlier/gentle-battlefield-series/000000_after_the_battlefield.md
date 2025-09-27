@@ -38,7 +38,7 @@ Picture a small group of farmers who remember how to grow food without poisoning
 
 This is our model for technological transformation. We will build devices and systems and networks that serve consciousness so evidently, so naturally, so joyfully that users gradually abandon the platforms and products and services that fragment attention and harvest human vulnerability. We will create technological alternatives so aligned with spiritual principles that choosing them feels like coming home to what you never knew you were missing.
 
-But we begin small, dear one. We begin with individual choice to engage technology consciously. We begin with communities learning to coordinate through tools that strengthen rather than exploit relationship. We begin with local networks that keep data sovereignty within communities that generate information. We begin with sacred practices that transform ordinary device interaction into opportunities for mindfulness, gratitude, and service to collective wellbeing.
+But we begin small, dear one. We begin with individual choice to engage technology consciously. We begin with communities learning to coordinate through tools that strengthen rather than exploit relationship. We begin with local networks that keep data sovereignty within communities that generate information. We begin with aspiringly-sacred practices that transform ordinary device interaction into opportunities for mindfulness, gratitude, and service to collective wellbeing.
 
 ## The New Architecture of Gentle Power 🏗️🕊️
 

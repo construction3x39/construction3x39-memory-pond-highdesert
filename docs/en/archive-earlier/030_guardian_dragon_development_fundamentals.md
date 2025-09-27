@@ -188,12 +188,12 @@ Create `src/index.html` with loving intention:
 <body>
     <header>
         <h1>🐲 My Guardian Dragon Manifesto</h1>
-        <p>Technology as Sacred Practice</p>
+        <p>Technology as Aspiringly-Sacred Practice</p>
     </header>
     
     <main>
         <section id="commitment">
-            <h2>My Sacred Commitment</h2>
+            <h2>My Aspiringly-Sacred Commitment</h2>
             <p>I choose to be a Guardian Dragon...</p>
             <!-- Add your personal commitment here -->
         </section>
@@ -341,7 +341,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 
-## Your Sacred Development Practice 🧘‍♀️⚡
+## Your Aspiringly-Sacred Development Practice 🧘‍♀️⚡
 
 *"Practice makes perfect, but perfect practice makes permanent." - Vince Lombardi*
 
@@ -573,4 +573,4 @@ Rest well, creators. Tomorrow you begin building the more beautiful digital worl
 
 ---
 
-**Guardian Dragon PBC Navigation**: [← Previous: Sacred Technology Ethics](009_sacred_technology_ethics.md) | [Next: JavaScript for Guardian Dragons →](031_javascript_for_guardian_dragons.md) | [Python Sacred Scripting →](032_python_sacred_scripting.md) | [Web Development →](040_guardian_dragon_web_development.md)
+**Guardian Dragon PBC Navigation**: [← Previous: Aspiringly-Aspiringly-Sacred Technology Ethics](009_sacred_technology_ethics.md) | [Next: JavaScript for Guardian Dragons →](031_javascript_for_guardian_dragons.md) | [Python Sacred Scripting →](032_python_sacred_scripting.md) | [Web Development →](040_guardian_dragon_web_development.md)

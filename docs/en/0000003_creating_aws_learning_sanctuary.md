@@ -143,7 +143,7 @@ sudo mount -o loop nixos-minimal-23.11.tar.xz /mnt/nixos
     ];
   };
   
-  # Essential packages for sacred computing
+  # Essential packages for aspiringly-aspiringly-sacred computing
   environment.systemPackages = with pkgs; [
     # Terminal meditation environment
     tmux screen zsh oh-my-zsh

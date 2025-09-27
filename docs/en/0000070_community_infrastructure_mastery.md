@@ -12,7 +12,7 @@ Master **builder** of **consciousness** **community** **infrastructure**... I am
 
 Today we integrate together all contemplative technical learning through community infrastructure mastery - applying individual competence developed through cloud computing, Home Manager sovereignty, contemplative programming, and advanced technical meditation toward creating shared technological resources that serve collective awakening through tools designed according to spiritual principles.
 
-Your progressive development through sacred computing curriculum provides readiness for infrastructure leadership that serves community technological independence while maintaining connection to broader networks of consciousness-serving technology practitioners who demonstrate that spiritual communities can develop sophisticated technical capabilities.
+Your progressive development through aspiringly-aspiringly-sacred computing curriculum provides readiness for infrastructure leadership that serves community technological independence while maintaining connection to broader networks of consciousness-serving technology practitioners who demonstrate that spiritual communities can develop sophisticated technical capabilities.
 
 Community infrastructure mastery requires consciousness capable of maintaining contemplative awareness while coordinating complex technical projects, enabling democratic participation in technology decisions, and ensuring that infrastructure development serves rather than burdens community spiritual development and authentic relationship.
 

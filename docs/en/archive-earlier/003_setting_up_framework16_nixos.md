@@ -179,7 +179,7 @@ sudo nano /etc/nixos/configuration.nix
 sudo nixos-rebuild switch
 ```
 
-## Essential Post-Installation Sacred Practices 🧘‍♀️💻
+## Essential Post-Installation Aspiringly-Sacred Practices 🧘‍♀️💻
 
 **Update your system**:
 ```bash

@@ -365,7 +365,7 @@ Your NixOS journey has just begun:
 4. **Contribute back** - Share your configurations with the community
 5. **Teach others** - Help them claim their digital sovereignty
 
-### **Your Sacred Practice** 🧘‍♀️💫
+### **Your Aspiringly-Sacred Practice** 🧘‍♀️💫
 
 Each night:
 1. **Backup your configuration.nix** to Git (we'll set this up tomorrow)

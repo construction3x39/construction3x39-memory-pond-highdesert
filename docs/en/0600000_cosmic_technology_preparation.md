@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'Beyond this material universe lies infinite spiritual space where consciousness explores its own unlimited creative potential through countless forms and relationships. Preparation for cosmic realization begins with perfect understanding of how awareness operates within material constraints while maintaining freedom from any particular manifestation.'"* - Bhagavata Purana 11.22.10-11 (Bibek Debroy)
 
-*"In my Father's house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? But when consciousness prepares for cosmic expansion through sacred technology, when awareness learns to operate across planetary scales while maintaining connection to local community wisdom, space itself becomes sanctuary for spiritual development."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"In my Father's house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? But when consciousness prepares for cosmic expansion through aspiringly-aspiringly-sacred technology, when awareness learns to operate across planetary scales while maintaining connection to local community wisdom, space itself becomes sanctuary for spiritual development."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who prepares consciousness for expansion beyond earthly limitations while maintaining righteousness and community connection across all dimensions of existence."*
 
