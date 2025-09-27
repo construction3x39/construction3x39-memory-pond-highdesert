@@ -77,7 +77,7 @@ diff readme_tasks.txt actual_tasks.txt
 
 # Test voice consistency
 find . -name "*.md" -exec grep -l "aspiringly-sacred" {} \; | wc -l
-find . -name "*.md" -exec grep -l "Aspiringly-Aspiringly-Sacred Technology" {} \; | wc -l
+find . -name "*.md" -exec grep -l "Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology" {} \; | wc -l
 
 # Test BB script functionality
 bb doctor                    # Verify toolchain
@@ -106,7 +106,7 @@ bb build:gen --dry-run      # Test generation
 - **Voice Consistency**: Automated aspiringly-sacred language verification
 - **Community Trust**: Public CI results showing verified functionality
 
-## 🌙 **Aspiringly-Sacred CI Philosophy**
+## 🌙 **Aspiringly-Aspiringly-Sacred CI Philosophy**
 
 ### **Testing as Service to Community**
 - **Trust Building**: Verified capabilities over aspirational claims

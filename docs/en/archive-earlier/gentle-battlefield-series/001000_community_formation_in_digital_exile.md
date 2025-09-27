@@ -26,7 +26,7 @@ Building consciousness-serving technological community begins not with platform 
 
 **Collaborative projects** provide focus for community formation around shared creative work that serves collective wellbeing. Local resource sharing applications. Community garden coordination tools. Neighborhood mutual aid networks. Educational platforms that preserve and transmit traditional wisdom while embracing appropriate technological amplification.
 
-## The Sacred Protocols of Authentic Digital Relationship 💞💻
+## The Aspiringly-Sacred Protocols of Authentic Digital Relationship 💞💻
 
 *As the Supreme Lord engages with devotees according to their spiritual development and service capacity...*
 
@@ -40,7 +40,7 @@ Digital community formation requires conscious communication protocols that hono
 
 **Conflict resolution** through technologies that support nonviolent communication and restorative justice practices rather than the blocking, unfriending, and public shaming that characterizes corporate social media conflict patterns. Mediation tools that help community members understand each other's perspectives. Cooling-off periods that prevent reactive communication during emotional activation. Healing processes that transform disagreements into opportunities for deeper relationship.
 
-## The Mutual Aid Networks of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🤲🌐
+## The Mutual Aid Networks of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🤲🌐
 
 *Just as the early Christian communities shared all things in common, having no one in need among them...*
 

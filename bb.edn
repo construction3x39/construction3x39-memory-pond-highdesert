@@ -1,9 +1,12 @@
-{:paths ["site-dsl/src" "scripts"]
+{:paths ["site-dsl/src" "scripts" "src"]
  :deps  {org.clojure/clojurescript {:mvn/version "1.11.132"}
          http-kit/http-kit        {:mvn/version "2.8.0"}
          babashka/fs              {:mvn/version "0.5.20"}
          hiccup/hiccup           {:mvn/version "1.0.5"}
-         markdown-clj/markdown-clj {:mvn/version "1.11.4"}}
+         markdown-clj/markdown-clj {:mvn/version "1.11.4"}
+         ;; 🧪 Clojure Spec for Aspiringly-Sacred Standards
+         org.clojure/spec.alpha   {:mvn/version "0.3.218"}
+         org.clojure/test.check   {:mvn/version "1.1.1"}}
  :tasks
  { :requires ([babashka.fs :as fs]
               [babashka.process :refer [shell]]

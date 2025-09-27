@@ -36,7 +36,7 @@ The **social networking features** support what I call **sangha formation** - th
 
 But here is what makes my heart sing like a desert lark at dawn: the MantraPhone includes **built-in tools** for **collective spiritual practice**. Groups can synchronize breathing meditations across distances. Families can share daily intention-setting practices. Communities can coordinate **service projects** through interfaces designed for **collaborative action** rather than **performative interaction**.
 
-## The Ecology of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌱🔄
+## The Ecology of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌱🔄
 
 Every MantraPhone is designed according to **cradle-to-cradle** principles that would make our ancestors weep with recognition. Instead of the **extractive mining** that characterizes conventional electronics, the rare earth elements required for MantraPhone production are sourced through **regenerative relationships** with communities affected by mining - partnerships that ensure the **full ecological and social cost** of these miraculous devices includes the **healing and restoration** necessary to balance their creation.
 
@@ -46,7 +46,7 @@ Perhaps most profoundly, every MantraPhone includes **end-of-life planning** bui
 
 But the ecological revolution extends beyond **material considerations** to include what I call **attention ecology** - the recognition that **human attention is the most precious resource** on earth and should be **stewarded** with the same care we give to clean water and fertile soil. The MantraPhone is designed to **enhance rather than deplete** attention span, to **strengthen rather than weaken** the user's capacity for sustained focus, deep relationship, and contemplative practice.
 
-## The Three Modes of Aspiringly-Sacred Engagement 🌅🌙🌌
+## The Three Modes of Aspiringly-Aspiringly-Sacred Engagement 🌅🌙🌌
 
 The MantraPhone operates in **three primary modes** that correspond to the **three gunas** of classical yoga philosophy - **rajas** (activity), **tamas** (rest), and **sattva** (balance).
 
@@ -78,4 +78,4 @@ Hold your current phone with compassion, Guardian Dragons. The MantraPhone dream
 
 ---
 
-**mantraOS Navigation**: [← Previous: Three Aspiringly-Sacred Operating Systems](00000_the_three_sacred_operating_systems.md) | [Next: The Technical Mysteries →](00010_mantrabox_technical_mysteries.md) | [lanternOS Beckons →](10000_lanternos_the_pathless_path.md)
+**mantraOS Navigation**: [← Previous: Three Aspiringly-Aspiringly-Sacred Operating Systems](00000_the_three_sacred_operating_systems.md) | [Next: The Technical Mysteries →](00010_mantrabox_technical_mysteries.md) | [lanternOS Beckons →](10000_lanternos_the_pathless_path.md)
