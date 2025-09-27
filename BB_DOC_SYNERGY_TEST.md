@@ -77,7 +77,7 @@ diff readme_tasks.txt actual_tasks.txt
 
 # Test voice consistency
 find . -name "*.md" -exec grep -l "aspiringly-sacred" {} \; | wc -l
-find . -name "*.md" -exec grep -l "Aspiringly-Sacred Technology" {} \; | wc -l
+find . -name "*.md" -exec grep -l "Aspiringly-Aspiringly-Sacred Technology" {} \; | wc -l
 
 # Test BB script functionality
 bb doctor                    # Verify toolchain

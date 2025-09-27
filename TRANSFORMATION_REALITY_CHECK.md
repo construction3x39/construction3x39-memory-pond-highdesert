@@ -59,7 +59,7 @@
 find docs/ -name "*.md" -exec sed -i '' 's/Aspiringly-Sacred/Aspiringly-Aspiringly-Sacred/g' {} \;
 
 # Verify completion
-grep -r "Aspiringly-Aspiringly-Aspiringly-Sacred Technology" docs/ | wc -l  # Should be 0
+grep -r "Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology" docs/ | wc -l  # Should be 0
 
 # Test voice consistency  
 grep -r "aspiringly-sacred" docs/ | wc -l  # Should be 200+

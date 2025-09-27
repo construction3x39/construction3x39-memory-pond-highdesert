@@ -208,7 +208,7 @@ enable_metrics: false
 echo "💬 Creating sacred community communication spaces"
 
 # General community coordination
-matrix-cli create-room "Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning" \
+matrix-cli create-room "Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning" \
   --topic "Gentle technical education serving consciousness development" \
   --private --invite-only
 

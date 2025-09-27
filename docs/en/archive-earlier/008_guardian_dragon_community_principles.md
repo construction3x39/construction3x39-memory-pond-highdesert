@@ -215,4 +215,4 @@ Rest well, community builders. Tomorrow we continue weaving the web of mutual ai
 
 ---
 
-**Guardian Dragon PBC Navigation**: [← Previous: Advanced Digital Security](007_advanced_digital_security.md) | [Next: Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Ethics →](009_sacred_technology_ethics.md) | [Community Guidelines →](050_guardian_dragon_community_guidelines.md)
+**Guardian Dragon PBC Navigation**: [← Previous: Advanced Digital Security](007_advanced_digital_security.md) | [Next: Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Ethics →](009_sacred_technology_ethics.md) | [Community Guidelines →](050_guardian_dragon_community_guidelines.md)
