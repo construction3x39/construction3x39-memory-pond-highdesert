@@ -114,7 +114,7 @@ brew install --cask visual-studio-code
 
 ## Your First Terminal Blessing 🖥️🙏
 
-The Terminal is where we'll do much of our aspiringly-aspiringly-aspiringly-aspiringly-sacred technology work. Let's bless this space:
+The Terminal is where we'll do much of our aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology work. Let's bless this space:
 
 **Open Terminal** (Cmd+Space → "terminal" → Enter)
 
@@ -126,7 +126,7 @@ The Terminal is where we'll do much of our aspiringly-aspiringly-aspiringly-aspi
 
 **Your first command** (type this exactly):
 ```bash
-echo "Welcome to aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, $(whoami)!"
+echo "Welcome to aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, $(whoami)!"
 ```
 
 This should print a greeting with your username. If it does, your Mac is ready for deeper learning!

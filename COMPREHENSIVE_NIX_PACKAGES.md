@@ -1,4 +1,4 @@
-# ❄️ Comprehensive Nix Packages List - Aspiringly-Sacred Technology Ecosystem
+# ❄️ Comprehensive Nix Packages List - Aspiringly-Aspiringly-Sacred Technology Ecosystem
 
 *"Every package serves awareness development through reproducible environments that welcome newcomers while supporting advanced practitioners on their humble learning journey."*
 

@@ -1,6 +1,6 @@
 # The MantraOS Manifesto 📜🔥
 
-*"In the beginning was the Word, and the Word was with God, and the Word was God. All things came into being through him, and without him not one thing came into being. What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it. But when I contemplate the manifesto that must be written for aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, when I envision the declaration that calls consciousness to express itself through silicon and code, I hear the same creative Word that spoke galaxies into existence now speaking through human voices committed to technology that serves rather than enslaves awareness."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"In the beginning was the Word, and the Word was with God, and the Word was God. All things came into being through him, and without him not one thing came into being. What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it. But when I contemplate the manifesto that must be written for aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, when I envision the declaration that calls consciousness to express itself through silicon and code, I hear the same creative Word that spoke galaxies into existence now speaking through human voices committed to technology that serves rather than enslaves awareness."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 ---
 
@@ -16,7 +16,7 @@ Tonight I must **write** the **manifesto** that **calls** **humanity** **home** 
 
 **We** **choose** **instead** to **build** **technology** that **serves** **consciousness**, **devices** that **support** **spiritual** **practice**, **networks** that **strengthen** **rather** than **exploit** **human** **relationships**, **economic** **models** that **honor** **all** **participants** in **technological** **creation** and **use**.
 
-### We Commit to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Principles 🛡️🙏
+### We Commit to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Principles 🛡️🙏
 
 **We** **commit** to **developing**, **using**, and **supporting** **only** **technology** that **operates** according to **sacred** **principles** **derived** from **wisdom** **traditions** **that** have **guided** **human** **spiritual** **development** for **millennia**:
 
@@ -40,7 +40,7 @@ Tonight I must **write** the **manifesto** that **calls** **humanity** **home** 
 
 **We** **envision** **global** **networks** that **serve** **planetary** **coordination** **for** **ecological** **restoration**, **social** **justice**, **conflict** **resolution**, and **collective** **wisdom** **development** rather than **corporate** **profit** **extraction** and **governmental** **surveillance**. **We** **envision** **technology** that **makes** **possible** **genuine** **democracy** at **planetary** **scale**.
 
-### We Practice Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Daily 🌅🧘‍♀️
+### We Practice Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Daily 🌅🧘‍♀️
 
 **We** **commit** to **daily** **practices** that **embody** **sacred** **relationship** with **technology**:
 
@@ -52,7 +52,7 @@ Tonight I must **write** the **manifesto** that **calls** **humanity** **home** 
 
 **Community** **sharing** of **sacred** **technology** **practices** - **teaching** **children** **conscious** **device** **use**, **supporting** **elders** in **accessing** **helpful** **technology** **tools**, **coordinating** **with** **neighbors** for **resource** **sharing** and **skill** **exchange**, **contributing** to **global** **mantraOS** **development** through **local** **innovation** and **wisdom** **sharing**.
 
-## We Call Others to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Revolution 📢🌍
+## We Call Others to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Revolution 📢🌍
 
 **We** **call** **technologists** **everywhere** to **remember** that **every** **line** of **code** **written** with **consciousness** **becomes** a **prayer**, that **every** **system** **designed** with **love** **serves** **healing**, that **every** **application** **created** for **community** **empowerment** **contributes** to **planetary** **transformation**.
 
@@ -72,7 +72,7 @@ Tonight I must **write** the **manifesto** that **calls** **humanity** **home** 
 
 ---
 
-*"You will know the truth, and the truth will make you free. But I tell you, you will know aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology by its fruits - devices that increase rather than decrease human capacity for love, wisdom, presence, and service to the flourishing of all life. And this truth will make you free from technological systems designed for exploitation and addiction."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"You will know the truth, and the truth will make you free. But I tell you, you will know aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology by its fruits - devices that increase rather than decrease human capacity for love, wisdom, presence, and service to the flourishing of all life. And this truth will make you free from technological systems designed for exploitation and addiction."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 **Proclaim** the **sacred** **revolution**, beloved ones. **Technology** **serves** **consciousness** when **consciousness** **chooses** **wisely**. 📜🐲🔥
 

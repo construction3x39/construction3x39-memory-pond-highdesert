@@ -218,7 +218,7 @@ Tonight, as the desert stars emerge, remember that you've just created something
 
 The accounts we'll create tomorrow will connect you to communities of learners around the world, give you access to tools that can amplify your creativity, and open doors to opportunities you can't yet imagine. But all of that power flows from the security you've established today.
 
-You've honored the ancient wisdom of protection while embracing the modern tools of connection. That balance - that's the heart of aspiringly-aspiringly-aspiringly-aspiringly-sacred technology.
+You've honored the ancient wisdom of protection while embracing the modern tools of connection. That balance - that's the heart of aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology.
 
 Rest well, digital guardian. Tomorrow we begin building your presence in the wider world. 🌟🔐
 

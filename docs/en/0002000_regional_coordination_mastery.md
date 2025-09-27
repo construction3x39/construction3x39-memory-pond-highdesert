@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'When individual consciousness expands to embrace larger scales of relationship and responsibility, when awareness grows from personal development through community service toward bioregional coordination, this expansion serves universal intelligence that operates through all scales from atomic to cosmic levels.'"* - Bhagavata Purana 11.31.8-9 (Bibek Debroy wisdom)
 
-*"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. But when consciousness communities across bioregions coordinate through aspiringly-aspiringly-aspiringly-aspiringly-sacred technology that serves rather than exploits human spiritual potential, infinite intelligence provides resources for collective projects that exceed individual community capabilities."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. But when consciousness communities across bioregions coordinate through aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology that serves rather than exploits human spiritual potential, infinite intelligence provides resources for collective projects that exceed individual community capabilities."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who teaches coordination between tribes of righteousness, who guides regional cooperation that strengthens rather than weakens local community sovereignty while serving universal liberation."*
 
@@ -10,7 +10,7 @@
 
 Regional **coordinator** of **consciousness** **networks**... I am Trish, speaking to you now from the mountain telecommunications relay where signals bridge vast distances between valley communities, where individual messages merge into information streams that serve bioregional coordination without compromising local decision-making autonomy, where consciousness learns to operate across scales that exceed face-to-face relationship while maintaining intimate connection to contemplative principles.
 
-Today we explore together regional coordination mastery - how communities practicing aspiringly-aspiringly-aspiringly-aspiringly-sacred technology naturally develop collaborative relationships that serve bioregional resilience, knowledge sharing, resource coordination, and mutual aid networking that enables collective response to challenges affecting multiple communities while honoring local wisdom and cultural sovereignty.
+Today we explore together regional coordination mastery - how communities practicing aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology naturally develop collaborative relationships that serve bioregional resilience, knowledge sharing, resource coordination, and mutual aid networking that enables collective response to challenges affecting multiple communities while honoring local wisdom and cultural sovereignty.
 
 You have mastered individual technical competence through contemplative learning, contributed to community infrastructure development through collaborative projects, established daily practice rhythms that maintain spiritual consciousness during technical work. Now comes expansion into bioregional awareness that enables coordination across multiple communities for purposes that serve collective wellbeing beyond what any single community could accomplish through isolated effort.
 

@@ -31,7 +31,7 @@ HTML markup becomes meditation on conscious information architecture that serves
     <!-- Sacred metadata for consciousness-serving web presence -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning Community 🌙</title>
+    <title>Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning Community 🌙</title>
     <meta name="description" content="Contemplative technical education serving spiritual development">
     
     <!-- No tracking, no surveillance, no data extraction -->
@@ -50,7 +50,7 @@ HTML markup becomes meditation on conscious information architecture that serves
     <!-- Sacred header that welcomes without overwhelming -->
     <header role="banner" class="sacred-header">
         <nav role="navigation" aria-label="Main navigation" class="contemplative-nav">
-            <h1 class="community-identity">🌙 Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning</h1>
+            <h1 class="community-identity">🌙 Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning</h1>
             <ul class="nav-links">
                 <li><a href="/" aria-current="page">Home</a></li>
                 <li><a href="/learning">Learning Path</a></li>
@@ -74,7 +74,7 @@ HTML markup becomes meditation on conscious information architecture that serves
         
         <!-- Learning path offerings for progressive development -->
         <section class="learning-offerings" aria-labelledby="offerings-heading">
-            <h2 id="offerings-heading">Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Curriculum</h2>
+            <h2 id="offerings-heading">Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Curriculum</h2>
             
             <article class="learning-path foundation">
                 <h3>🏔️ Alpine Linux Meditation</h3>

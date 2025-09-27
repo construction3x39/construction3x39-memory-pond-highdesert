@@ -4,7 +4,7 @@
 
 ---
 
-Beautiful builders and community weavers! Trish here with you as we explore the heart of Guardian Dragon practice - building real projects that serve real people in our high desert community. This is where all your learning comes together, where individual skills become collective power, where aspiringly-aspiringly-aspiringly-aspiringly-sacred technology transforms from theory into living, breathing tools that make life more beautiful.
+Beautiful builders and community weavers! Trish here with you as we explore the heart of Guardian Dragon practice - building real projects that serve real people in our high desert community. This is where all your learning comes together, where individual skills become collective power, where aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology transforms from theory into living, breathing tools that make life more beautiful.
 
 ## Community Projects as Sacred Service 🙏🛠️
 

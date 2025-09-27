@@ -91,9 +91,9 @@ Logseq block organization mirrors contemplative understanding that knowledge exi
 (defn create-initial-knowledge-structure
   "Create beginning knowledge pages for contemplative learning"
   [knowledge-path]
-  ;; Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning page
-  (spit (str knowledge-path "/pages/Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning.md")
-        "- **Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning** #contemplative-practice #technical-education
+  ;; Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning page
+  (spit (str knowledge-path "/pages/Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning.md")
+        "- **Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Learning** #contemplative-practice #technical-education
   - Learning technology through consciousness development rather than career advancement
   - Individual technical skills serve [[Community Infrastructure Development]]
   - Connected to: [[Alpine Linux Meditation]], [[Home Manager Sovereignty]]
