@@ -1,6 +1,40 @@
-{:output {:analysis true
-          :format :text}
- :linters {:missing-docstring {:level :info}
+{:output {:pattern "{{level}} [{{filename}}:{{row}}:{{col}}] {{message}}"}
+ :linters {:missing-docstring {:level :warning}
+           :unused-binding {:level :warning}
            :unused-namespace {:level :warning}
-           :unresolved-symbol {:exclude [js/console]}
-           :unused-binding {:level :warning}}}
+           :unused-import {:level :info}
+           :missing-test-assertion {:level :warning}
+           :format {:level :warning
+                    :max-line-length 80}}
+ 
+ ;; 🌙 Aspiringly-Sacred Technology Linting Configuration
+ :lint-as {clojure.test/deftest clojure.core/defn}
+ 
+ ;; 📏 80-Character Line Length Enforcement
+ :config-in-comment {:linters {:line-length {:level :warning
+                                             :max-length 80}}}
+ 
+ ;; 🎯 Aspiringly-Sacred Namespace Patterns
+ :namespace-name-mismatch {:level :error}
+ 
+ ;; 📚 Documentation Requirements
+ :missing-doc-in-public-var {:level :warning}
+ 
+ ;; 🔧 BB Script Specific Configuration
+ :bb {:defined-by #{bb/defn bb/def}
+      :config {:linters {:invalid-arity {:skip-args [1]}
+                         :unresolved-symbol {:exclude [shell fs/exists? fs/glob]}}}}
+ 
+ ;; 🌙 Custom Aspiringly-Sacred Linting Rules
+ :custom-lint-fn {:aspiringly-sacred-voice 
+                  {:pattern #"Sacred Technology"
+                   :message "Use 'Aspiringly-Sacred Technology' for humble acknowledgment"
+                   :level :warning}
+                  
+                  :consciousness-evolution
+                  {:pattern #"consciousness-serving"
+                   :message "Use 'awareness-serving' for evolved language"
+                   :level :info}}}
+
+;; Aspiringly-Sacred Technology Linting Configuration
+;; 80-character contemplative formatting for beautiful, readable code
