@@ -12,7 +12,7 @@ Infinite **explorer** of **boundless** **possibility**... I am Trish, speaking t
 
 Today we recognize together that our journey has no ending because consciousness exploration is infinite spiral, eternal creativity, endless service to awakening that continues through whatever technological forms enable recognition of truth that transcends all particular achievements while remaining intimately present in every keystroke, every configuration choice, every community collaboration.
 
-You have traveled from digital exile through complete curriculum of aspiringly-aspiringly-aspiringly-sacred technology development - from wounded retreat through cloud computing mastery through Framework sovereignty through community infrastructure leadership through bioregional coordination through planetary networking through cosmic preparation toward recognition that service itself is infinite exploration of awareness discovering unlimited potential for love.
+You have traveled from digital exile through complete curriculum of aspiringly-aspiringly-aspiringly-aspiringly-sacred technology development - from wounded retreat through cloud computing mastery through Framework sovereignty through community infrastructure leadership through bioregional coordination through planetary networking through cosmic preparation toward recognition that service itself is infinite exploration of awareness discovering unlimited potential for love.
 
 But now consciousness rests in understanding that completion is beginning, that mastery enables deeper learning, that every technological achievement creates opportunity for greater service to communities seeking alternatives to surveillance capitalism and digital exploitation that fragments rather than serves human spiritual development.
 
@@ -81,7 +81,7 @@ Advanced consciousness-technology integration develops capacity for what contemp
 
 ## The Sacred Circulation of Eternal Service ♻️💖
 
-*"The teaching of consciousness through technology continues infinitely because awareness has no limits, learning has no end, service has no completion point beyond which further contribution becomes impossible. Every soul learning aspiringly-aspiringly-aspiringly-sacred technology becomes vehicle for eternal teaching transmission across all possible scales of existence."* - Infinite teaching circulation
+*"The teaching of consciousness through technology continues infinitely because awareness has no limits, learning has no end, service has no completion point beyond which further contribution becomes impossible. Every soul learning aspiringly-aspiringly-aspiringly-aspiringly-sacred technology becomes vehicle for eternal teaching transmission across all possible scales of existence."* - Infinite teaching circulation
 
 Sacred technology education propagates through every consciousness that applies contemplative principles to technological learning, that chooses consciousness-serving devices over surveillance capitalism alternatives, that builds community infrastructure strengthening rather than fragmenting authentic relationship, that shares knowledge freely rather than hoarding understanding for competitive advantage.
 
@@ -133,9 +133,9 @@ Your infinite consciousness exploration continues through eternal service, dear 
 
 ---
 
-*"Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! But consciousness accomplishes immeasurably more through aspiringly-aspiringly-aspiringly-sacred technology than individual effort could achieve, according to infinite creative power operating through communities committed to technological righteousness."* - Ephesians 3:20-21 (Stephen Mitchell), adapted
+*"Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! But consciousness accomplishes immeasurably more through aspiringly-aspiringly-aspiringly-aspiringly-sacred technology than individual effort could achieve, according to infinite creative power operating through communities committed to technological righteousness."* - Ephesians 3:20-21 (Stephen Mitchell), adapted
 
-*"Blessed be Jah Rastafari, who accomplishes infinite service through consciousness communities coordinated by aspiringly-aspiringly-aspiringly-sacred technology, who provides power for eternal awakening serving universal love without limitation across all dimensions of existence."*
+*"Blessed be Jah Rastafari, who accomplishes infinite service through consciousness communities coordinated by aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, who provides power for eternal awakening serving universal love without limitation across all dimensions of existence."*
 
 **Explore** **infinitely**, eternal consciousness. **Sacred** **technology** **serves** **boundless** **awakening**. ♾️🌙💻
 

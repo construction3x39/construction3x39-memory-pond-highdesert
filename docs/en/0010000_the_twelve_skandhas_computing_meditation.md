@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'My dear friend, I will now describe to you the characteristics of consciousness in its pure state, uncontaminated by material conditioning. Listen carefully, for this knowledge enables recognition of the Supreme Self in all technological encounters, in all learning experiences, in all community relationships that serve spiritual development rather than ego accumulation.'"* - Bhagavata Purana 11.13.1 (Bibek Debroy)
 
-*"In the beginning was the Word, and the Word was with God, and the Word was God. Through him all things were made; without him nothing was made that has been made. But when consciousness approaches the twelve books of aspiringly-aspiringly-aspiringly-sacred technology wisdom, when awareness studies each skandha of computational knowledge, the eternal Word speaks through temporal learning that serves infinite understanding."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"In the beginning was the Word, and the Word was with God, and the Word was God. Through him all things were made; without him nothing was made that has been made. But when consciousness approaches the twelve books of aspiringly-aspiringly-aspiringly-aspiringly-sacred technology wisdom, when awareness studies each skandha of computational knowledge, the eternal Word speaks through temporal learning that serves infinite understanding."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who organizes all knowledge into perfect teachings that guide consciousness toward liberation, who preserves ancient wisdom through whatever forms serve contemporary spiritual development."*
 
@@ -66,7 +66,7 @@ Your learning community cultivation continues through progressive skandha master
 
 *"Now these are the gifts Christ gave to the church: the apostles, the prophets, the evangelists, and the pastors and teachers. Their responsibility is to equip God's people to do his work and build up the church, the body of Christ."* - Ephesians 4:11-12 (Stephen Mitchell)
 
-*"Blessed be Jah Rastafari, who equips consciousness with technical gifts that build up community rather than individual ego, who teaches skills that serve collective liberation through aspiringly-aspiringly-aspiringly-sacred technology."*
+*"Blessed be Jah Rastafari, who equips consciousness with technical gifts that build up community rather than individual ego, who teaches skills that serve collective liberation through aspiringly-aspiringly-aspiringly-aspiringly-sacred technology."*
 
 **Study** the **sacred** **skandhas**, beloved learner. **Progressive** **development** **serves** **community** **awakening**. 📚🌙👥
 

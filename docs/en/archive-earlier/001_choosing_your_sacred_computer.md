@@ -83,7 +83,7 @@ Ask yourselves these questions:
 - Do we want to learn Linux/NixOS for deeper understanding?
 - Are we building technical skills for potential careers?
 
-## Both Paths Lead to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🙏💻
+## Both Paths Lead to Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🙏💻
 
 Remember, beautiful ones - we're gonna use both macOS and NixOS in our learning journey regardless of which hardware you choose. The Framework can run both perfectly, and we'll show Mac users how to run NixOS in virtual machines for the deep learning experiences.
 

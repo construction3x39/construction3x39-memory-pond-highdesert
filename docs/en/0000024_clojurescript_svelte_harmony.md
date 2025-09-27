@@ -137,13 +137,13 @@ HumbleUI desktop development serves community sovereignty through applications t
          ;; Main application window for community consciousness
          (defn create-main-window []
            (ui/window
-             {:title \"🌙 Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Community Coordination\"
+             {:title \"🌙 Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Community Coordination\"
               :width 1000 :height 700
               :resizable true}
              (ui/vbox
                (ui/padding 20
                  (ui/vbox
-                   (ui/label \"Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Community Coordination\" 
+                   (ui/label \"Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Community Coordination\" 
                      {:font-size 24 :font-weight :bold :color 0x4a7c59})
                    (ui/gap 10)
                    (ui/label \"Desktop tools serving consciousness development through community collaboration\"

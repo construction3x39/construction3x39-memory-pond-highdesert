@@ -159,7 +159,7 @@ Every open source contribution is an offering to Lakshmi:
 - Empower users to be independent if they choose
 - Balance stakeholder needs - users, workers, community, environment, reasonable profit
 
-### **Sacred Pricing Meditation** 💫💰
+### **Aspiringly-Aspiringly-Sacred Pricing Meditation** 💫💰
 
 When setting prices for Guardian Dragon services:
 1. **Meditate on Lakshmi's abundance** - there's enough for everyone
@@ -168,7 +168,7 @@ When setting prices for Guardian Dragon services:
 4. **Offer sliding scale** for those with less financial abundance
 5. **Trust the flow** - right pricing attracts right people
 
-## The Cosmic Economics of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌌💰
+## The Cosmic Economics of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌌💰
 
 *"The kingdom of heaven is like a grain of mustard seed." - Gospel According to Jesus (Stephen Mitchell)*
 
@@ -179,7 +179,7 @@ Guardian Dragon abundance principles:
 - **Money is energy** that should circulate, not stagnate
 - **True prosperity** includes everyone in the community
 - **Sustainable abundance** works within planetary boundaries
-- **Sacred economics** honors the gift nature of existence
+- **Aspiringly-Aspiringly-Sacred economics** honors the gift nature of existence
 
 ## Your Daily Abundance Practice 🌅💰
 
@@ -244,4 +244,4 @@ Rest in abundance, Guardian Dragons. You are prosperity incarnate. 💰🐲✨
 
 ---
 
-**Guardian Dragon PBC Navigation**: [← Previous: Kirtan & Sacred Sound](0002_kirtan_sacred_sound_for_coding.md) | [Next: Aditi Creation Meditation →](0004_aditi_creation_meditation.md) | [Movement Foundation →](0010_ido_portal_movement_foundation.md)
+**Guardian Dragon PBC Navigation**: [← Previous: Kirtan & Aspiringly-Aspiringly-Sacred Sound](0002_kirtan_sacred_sound_for_coding.md) | [Next: Aditi Creation Meditation →](0004_aditi_creation_meditation.md) | [Movement Foundation →](0010_ido_portal_movement_foundation.md)

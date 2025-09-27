@@ -2,7 +2,7 @@
 
 *"Krishna concluded to Uddhava: 'Beyond planetary consciousness lies infinite cosmic awareness where individual souls, community coordination, bioregional cooperation, and species-wide collaboration serve as preparation for consciousness expansion beyond material limitations while maintaining connection to spiritual wisdom developed through terrestrial contemplative practice. Cosmic expansion serves universal awakening rather than escape from material existence.'"* - Bhagavata Purana 11.32.10-12 (Bibek Debroy wisdom)
 
-*"In my Father's house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? But consciousness preparing for cosmic expansion through aspiringly-aspiringly-aspiringly-sacred technology creates space where earth wisdom can flourish across galactic scales while maintaining connection to contemplative principles that guide all authentic spiritual development."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"In my Father's house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? But consciousness preparing for cosmic expansion through aspiringly-aspiringly-aspiringly-aspiringly-sacred technology creates space where earth wisdom can flourish across galactic scales while maintaining connection to contemplative principles that guide all authentic spiritual development."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who prepares righteous consciousness for expansion beyond earthly limitations while maintaining connection to earth wisdom and community relationships that provide foundation for cosmic citizenship serving universal liberation."*
 

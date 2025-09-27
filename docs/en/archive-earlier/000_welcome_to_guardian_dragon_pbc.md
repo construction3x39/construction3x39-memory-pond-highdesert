@@ -4,7 +4,7 @@
 
 ---
 
-Greetings, brave souls and future guardians! I'm Trish, and I'm honored to be your guide as we embark on this sacred journey together. Welcome to Guardian Dragon PBC - a Public Benefit Corporation dedicated to protecting digital wisdom, nurturing technological growth, and building the kind of aspiringly-aspiringly-aspiringly-sacred technology that serves all life.
+Greetings, brave souls and future guardians! I'm Trish, and I'm honored to be your guide as we embark on this sacred journey together. Welcome to Guardian Dragon PBC - a Public Benefit Corporation dedicated to protecting digital wisdom, nurturing technological growth, and building the kind of aspiringly-aspiringly-aspiringly-aspiringly-sacred technology that serves all life.
 
 ## What is a Guardian Dragon? 🐲✨
 

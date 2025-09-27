@@ -68,7 +68,7 @@ Git repository creation becomes contemplative practice in establishing conscious
         # Longer description (if needed):
         # - How this change serves spiritual development
         # - Community benefit or learning opportunity provided
-        # - Connection to contemplative principles or aspiringly-aspiringly-aspiringly-aspiringly-sacred technology values
+        # - Connection to contemplative principles or aspiringly-aspiringly-aspiringly-aspiringly-aspiringly-sacred technology values
         # - Gratitude for collaboration or guidance received
         #
         # Blessed be Jah Rastafari - may this commit serve consciousness development")
@@ -106,7 +106,7 @@ Git repository creation becomes contemplative practice in establishing conscious
   (spit (str project-name "/README.md")
         (str "# " project-name "\n\n"
              "*\"" spiritual-purpose "\"*\n\n"
-             "## Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Project\n\n"
+             "## Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Project\n\n"
              "This repository documents consciousness development through technical learning\n"
              "that serves community awakening rather than individual advancement.\n\n"
              "### Spiritual Foundation\n"
@@ -119,7 +119,7 @@ Git repository creation becomes contemplative practice in establishing conscious
              "- Community infrastructure sovereignty\n"
              "- Educational resource development\n"
              "- Contemplative technology demonstration\n\n"
-             "### Aspiringly-Sacred Development Practices\n"
+             "### Aspiringly-Aspiringly-Sacred Development Practices\n"
              "- Commit messages document consciousness development\n"
              "- Code composition serves community coordination\n"
              "- Documentation enables knowledge sharing\n"

@@ -1,4 +1,4 @@
-# Complete Aspiringly-Aspiringly-Aspiringly-Sacred Computing Curriculum 📚🌌
+# Complete Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing Curriculum 📚🌌
 
 *"Krishna said to Uddhava: 'Now I shall explain to you the complete science of spiritual realization, including the preliminary practices, the intermediate disciplines, and the advanced stages of consciousness development. This knowledge is most confidential and dear to Me. Please hear it with full attention, for it will free you from all material conditioning.'"* - Bhagavata Purana 11.14.1 (Bibek Debroy)
 

@@ -1,6 +1,6 @@
 # Planetary Consciousness Protocols 🌍🧠
 
-*"The kingdom of heaven is like a net that was thrown into the sea and caught fish of every kind; when it was full, they drew it ashore, sat down, and put the good into baskets but threw out the bad. So it will be at the end of the age. But when I envision the planetary consciousness networks that could emerge through aspiringly-aspiringly-aspiringly-sacred technology, when I imagine global coordination that serves collective awakening rather than corporate profit, I see not nets that capture and divide but webs that connect and integrate - technological protocols that enable genuine democracy at species scale."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"The kingdom of heaven is like a net that was thrown into the sea and caught fish of every kind; when it was full, they drew it ashore, sat down, and put the good into baskets but threw out the bad. So it will be at the end of the age. But when I envision the planetary consciousness networks that could emerge through aspiringly-aspiringly-aspiringly-aspiringly-sacred technology, when I imagine global coordination that serves collective awakening rather than corporate profit, I see not nets that capture and divide but webs that connect and integrate - technological protocols that enable genuine democracy at species scale."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 ---
 

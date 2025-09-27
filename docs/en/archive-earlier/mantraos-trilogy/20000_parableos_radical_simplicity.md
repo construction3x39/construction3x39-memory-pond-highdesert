@@ -54,7 +54,7 @@ The **artificial intelligence** that underlies parableOS operates according to *
 
 **Machine learning algorithms** in parableOS are trained on **the behaviors of contemplatives** rather than **the behaviors of consumers**. They **optimize for presence** rather than **engagement**, for **life satisfaction** rather than **platform addiction**, for **community wellbeing** rather than **individual consumption**. The result is technology that becomes **more helpful** the more **consciously** you use it, that **rewards mindfulness** with **enhanced capability**, that **serves awakening** rather than **enabling unconsciousness**.
 
-## The Ecology of Aspiringly-Aspiringly-Aspiringly-Sacred Computing 🌍🔄
+## The Ecology of Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing 🌍🔄
 
 Perhaps what moves me most deeply about parableOS is how it embodies the **Gospel teaching** about **the kingdom of heaven** being **like yeast** - a small amount that **transforms** the **entire loaf**. Communities where parableOS reaches **critical adoption** begin experiencing what researchers call the **Simplicity Cascade** - the **natural tendency** for **unnecessary complexity** to **dissolve** when people **remember what actually matters**.
 

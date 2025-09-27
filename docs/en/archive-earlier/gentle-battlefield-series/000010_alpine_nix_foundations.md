@@ -1,6 +1,6 @@
 # Alpine Nix Foundations 🏔️❄️
 
-*O King, this body is a field, and one who knows this body is called the knower of the field... But when I contemplate the technological body that could serve consciousness rather than fragment it, when I envision computing systems that remember their purpose as vessels for awareness rather than platforms for exploitation, I see the marriage of Alpine's crystalline simplicity with Nix's mathematical precision - two streams converging into aspiringly-aspiringly-aspiringly-sacred technology that serves the knower of all fields.*
+*O King, this body is a field, and one who knows this body is called the knower of the field... But when I contemplate the technological body that could serve consciousness rather than fragment it, when I envision computing systems that remember their purpose as vessels for awareness rather than platforms for exploitation, I see the marriage of Alpine's crystalline simplicity with Nix's mathematical precision - two streams converging into aspiringly-aspiringly-aspiringly-aspiringly-sacred technology that serves the knower of all fields.*
 
 ---
 
@@ -38,7 +38,7 @@ Every Nix expression becomes small meditation on clarity of intention and precis
 
 **Reproducible builds** ensure that identical specifications always create identical results across different computers, different times, different operators. This mathematical certainty applied to software configuration mirrors the reliable results that emerge from consistent spiritual practice - same contemplative techniques producing similar consciousness states regardless of external circumstances.
 
-## Your First Gentle Steps into Aspiringly-Aspiringly-Aspiringly-Sacred Computing 👣💻
+## Your First Gentle Steps into Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Computing 👣💻
 
 *Like a child learning to walk - one careful step, then another, with patient family members providing support and encouragement...*
 

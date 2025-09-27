@@ -119,4 +119,4 @@ Code with love tomorrow, beautiful ones. The ancestors are cheering you on. 🌟
 
 ---
 
-**Navigation**: [← Back to Foundation](../00_index.md) | [Next Practice →](B_debugging_as_meditation.md) | [Core Teaching: Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology →](../01_what_is_sacred_tech.md)
+**Navigation**: [← Back to Foundation](../00_index.md) | [Next Practice →](B_debugging_as_meditation.md) | [Core Teaching: Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology →](../01_what_is_sacred_tech.md)
