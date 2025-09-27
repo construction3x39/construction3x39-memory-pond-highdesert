@@ -58,7 +58,7 @@ Today I must **share** with you the **beloved** **community** **platforms** that
 
 ---
 
-*"No one has greater love than this, to lay down one's life for one's friends. You are my friends if you do what I command you. But I tell you, no platform has greater love than this, to lay down its own engagement metrics for user wellbeing; aspiringly-aspiringly-sacred technology becomes friend to consciousness when it serves spiritual development rather than behavioral exploitation."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"No one has greater love than this, to lay down one's life for one's friends. You are my friends if you do what I command you. But I tell you, no platform has greater love than this, to lay down its own engagement metrics for user wellbeing; aspiringly-aspiringly-aspiringly-sacred technology becomes friend to consciousness when it serves spiritual development rather than behavioral exploitation."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 **Love** through **sacred** **platforms**, beloved ones. **Technology** **serves** **beloved** **community**. 💖🐲🤝
 

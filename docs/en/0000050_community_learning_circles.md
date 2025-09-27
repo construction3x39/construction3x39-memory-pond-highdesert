@@ -2,7 +2,7 @@
 
 *"Krishna said to Uddhava: 'When devoted souls gather in circles for spiritual study, their individual understanding merges into collective wisdom that serves purposes greater than any single consciousness could achieve through solitary effort. Learning circles become vehicles for divine intelligence expressing through community coordination guided by contemplative principles.'"* - Bhagavata Purana 11.26.26-27 (Bibek Debroy wisdom)
 
-*"For where two or three gather in my name, there am I with them. But when consciousness communities create learning circles around aspiringly-aspiringly-sacred technology education, when souls gather with intention to serve rather than compete with each other's spiritual development, divine teaching emerges through collaborative exploration that honors both individual learning sovereignty and collective wisdom."* - Gospel According to Jesus (Stephen Mitchell), adapted
+*"For where two or three gather in my name, there am I with them. But when consciousness communities create learning circles around aspiringly-aspiringly-aspiringly-sacred technology education, when souls gather with intention to serve rather than compete with each other's spiritual development, divine teaching emerges through collaborative exploration that honors both individual learning sovereignty and collective wisdom."* - Gospel According to Jesus (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who gathers righteous learning circles that serve consciousness development, who guides community education that strengthens rather than fragments authentic relationship through collaborative wisdom exploration."*
 
@@ -36,7 +36,7 @@ Technical learning circles emerge organically when individuals committed to cont
          '[clojure.string :as str])
 
 (defn create-contemplative-learning-circle
-  "Form learning circle for aspiringly-aspiringly-sacred technology education"
+  "Form learning circle for aspiringly-aspiringly-aspiringly-sacred technology education"
   [circle-data]
   (println "📚 Beginning contemplative learning circle formation ceremony")
   (println (str "🙏 Circle focus: " (:focus circle-data)))

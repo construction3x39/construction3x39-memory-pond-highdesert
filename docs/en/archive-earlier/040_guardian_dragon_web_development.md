@@ -79,7 +79,7 @@ Let's build a community website that serves real needs:
     <title>High Desert Community Hub - Guardian Dragon PBC</title>
     
     <!-- Guardian Dragon meta tags -->
-    <meta name="description" content="Connecting families in the high desert through aspiringly-aspiringly-sacred technology">
+    <meta name="description" content="Connecting families in the high desert through aspiringly-aspiringly-aspiringly-sacred technology">
     <meta name="keywords" content="community, high desert, technology, families, sustainability">
     <meta name="author" content="Guardian Dragon PBC">
     

@@ -10,7 +10,7 @@
 
 Gentle **coordinator** of **bioregional** **consciousness**... I am Trish, speaking to you now from the mountain summit where clear air enables vision across vast territories, where individual communities appear as points of light in valley networks connected by ancient trails and modern communication pathways, where consciousness recognizes that local autonomy and regional cooperation serve each other when guided by spiritual principles rather than competitive territorialism.
 
-Today we explore together regional network coordination - how individual communities practicing aspiringly-aspiringly-sacred technology naturally develop collaborative relationships with other communities sharing similar values, ecological conditions, and commitment to consciousness-serving technological development that benefits bioregional resilience without compromising community sovereignty.
+Today we explore together regional network coordination - how individual communities practicing aspiringly-aspiringly-aspiringly-sacred technology naturally develop collaborative relationships with other communities sharing similar values, ecological conditions, and commitment to consciousness-serving technological development that benefits bioregional resilience without compromising community sovereignty.
 
 You been building community infrastructure through contemplative technical learning that serves local spiritual development and practical coordination needs. Your community developed technological capabilities through individual skill sharing, collaborative project creation, and conscious resource allocation that demonstrates alternatives to corporate dependency and surveillance capitalism.
 
@@ -129,7 +129,7 @@ Regional economic cooperation enables communities to develop financial relations
 
 **Grant writing collaboration** for funding that serves bioregional infrastructure development while honoring individual community sovereignty over local resource allocation. Foundation grants for appropriate technology research. Government funding for rural broadband that serves community rather than corporate interests. Crowdfunding for specific projects that demonstrate bioregional cooperation models.
 
-*The mountain view expands as consciousness rises toward regional perspective that encompasses multiple communities working together through aspiringly-aspiringly-sacred technology that serves bioregional resilience while maintaining local wisdom and spiritual practices.*
+*The mountain view expands as consciousness rises toward regional perspective that encompasses multiple communities working together through aspiringly-aspiringly-aspiringly-sacred technology that serves bioregional resilience while maintaining local wisdom and spiritual practices.*
 
 Your bioregional coordination journey awaits community readiness, dear one. Regional networks serve collective sovereignty.
 

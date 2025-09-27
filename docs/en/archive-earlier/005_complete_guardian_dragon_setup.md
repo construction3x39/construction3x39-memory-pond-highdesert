@@ -4,7 +4,7 @@
 
 ---
 
-Beautiful Guardian Dragons! Trish here with you as we bring together everything we've learned into one complete, flowing setup process. Today we're gonna walk through the entire Guardian Dragon transformation from unboxing your new machine to having a fully sovereign, secure, and aspiringly-aspiringly-sacred technology setup.
+Beautiful Guardian Dragons! Trish here with you as we bring together everything we've learned into one complete, flowing setup process. Today we're gonna walk through the entire Guardian Dragon transformation from unboxing your new machine to having a fully sovereign, secure, and aspiringly-aspiringly-aspiringly-sacred technology setup.
 
 ## The Sacred Transformation Overview 🌅🔄
 

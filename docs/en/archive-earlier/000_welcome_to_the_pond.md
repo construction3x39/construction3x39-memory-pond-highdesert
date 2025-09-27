@@ -58,7 +58,7 @@ Before you begin each lesson, try this little ceremony:
 
 ## The Nakshatra Blesses Our Beginning 🌟📚
 
-As I write this under the gentle light of Rohini nakshatra - the star of growth and creation - I'm reminded that every beginning contains infinite possibility. Your journey with aspiringly-aspiringly-sacred technology starts with this single page, but it can grow into a practice that transforms not just your life, but your whole community.
+As I write this under the gentle light of Rohini nakshatra - the star of growth and creation - I'm reminded that every beginning contains infinite possibility. Your journey with aspiringly-aspiringly-aspiringly-sacred technology starts with this single page, but it can grow into a practice that transforms not just your life, but your whole community.
 
 ## Evening Reflection 🌅🙏
 
@@ -74,7 +74,7 @@ Welcome to the pond, dear one. The water's warm, the learning's deep, and there'
 
 *"Do not believe in anything simply because you have heard it... But after observation and analysis, when you find that anything agrees with reason and is conducive to the good and benefit of one and all, then accept it and live up to it." - Buddha*
 
-Rest well tonight, beautiful soul. Your aspiringly-aspiringly-sacred technology journey begins tomorrow. 🌟💤
+Rest well tonight, beautiful soul. Your aspiringly-aspiringly-aspiringly-sacred technology journey begins tomorrow. 🌟💤
 
 ---
 

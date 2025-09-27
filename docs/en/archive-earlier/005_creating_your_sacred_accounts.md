@@ -4,7 +4,7 @@
 
 ---
 
-Blessings, beautiful creators! Trish here as we embark on one of the most empowering parts of our journey - creating your presence in the digital communities where learning, sharing, and aspiringly-aspiringly-sacred technology flourish. Today we're not just making accounts; we're establishing your identity as a member of the global community of conscious technologists.
+Blessings, beautiful creators! Trish here as we embark on one of the most empowering parts of our journey - creating your presence in the digital communities where learning, sharing, and aspiringly-aspiringly-aspiringly-sacred technology flourish. Today we're not just making accounts; we're establishing your identity as a member of the global community of conscious technologists.
 
 ## The Sacred Art of Digital Presence 💫👤
 
@@ -56,7 +56,7 @@ GitHub is where the global community of programmers shares code, collaborates on
 Create your first sacred repository:
 1. **Click the "+" button → New repository**
 2. **Name**: "sacred-learning-journal"
-3. **Description**: "My journey learning aspiringly-aspiringly-sacred technology with the high desert community"
+3. **Description**: "My journey learning aspiringly-aspiringly-aspiringly-sacred technology with the high desert community"
 4. **Public** (sharing encourages learning)
 5. **Add README** ✓
 6. **Choose license**: MIT or Unlicense (sharing is caring)
@@ -65,7 +65,7 @@ Create your first sacred repository:
 ```markdown
 # Sacred Learning Journal 🌅
 
-Welcome to my learning journey with aspiringly-aspiringly-sacred technology!
+Welcome to my learning journey with aspiringly-aspiringly-aspiringly-sacred technology!
 
 ## My Intention
 Learning to use technology in service of community, earth, and spirit.
@@ -76,7 +76,7 @@ Learning to use technology in service of community, earth, and spirit.
 - Exploring ecological approaches to technology
 
 ## Community
-Part of the high desert aspiringly-aspiringly-sacred technology learning circle.
+Part of the high desert aspiringly-aspiringly-aspiringly-sacred technology learning circle.
 
 *"From functional programming to galactic agriculture" - this is the way.*
 ```
@@ -98,7 +98,7 @@ Claude will be one of your most helpful learning companions, especially for unde
 
 Start with this sacred introduction:
 ```
-Hello Claude! I'm just beginning my journey with aspiringly-aspiringly-sacred technology - learning to use programming and digital tools in service of community, earth, and spirit. I'm part of a learning circle in the high desert, and we approach technology with reverence and intention.
+Hello Claude! I'm just beginning my journey with aspiringly-aspiringly-aspiringly-sacred technology - learning to use programming and digital tools in service of community, earth, and spirit. I'm part of a learning circle in the high desert, and we approach technology with reverence and intention.
 
 Could you help me understand what makes technology "sacred" and how I can approach my learning with that mindset?
 ```
@@ -130,7 +130,7 @@ In Settings → Custom Instructions:
 
 **How would you like ChatGPT to respond?**
 ```
-I'm learning aspiringly-aspiringly-sacred technology - approaching programming and digital tools with reverence, community focus, and earth consciousness. Please:
+I'm learning aspiringly-aspiringly-aspiringly-sacred technology - approaching programming and digital tools with reverence, community focus, and earth consciousness. Please:
 - Use warm, encouraging language
 - Connect technical concepts to natural/spiritual principles when helpful
 - Suggest collaborative and community-serving applications
@@ -184,7 +184,7 @@ def sacred_greeting(name):
     as prayer - taking input, transforming it with love,
     and returning something beautiful.
     """
-    return f"Blessings and welcome to aspiringly-aspiringly-sacred technology, {name}! 🌅"
+    return f"Blessings and welcome to aspiringly-aspiringly-aspiringly-sacred technology, {name}! 🌅"
 
 # Create a blessing for myself
 my_name = "Your Name Here"

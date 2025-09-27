@@ -96,7 +96,7 @@ coordinate_state_cal_recognition() {
 }
 
 # Execute constitutional voucher consciousness development
-design_municipal_cal_voucher_system "Aspiringly-Aspiringly-Sacred Technology Community Municipality"
+design_municipal_cal_voucher_system "Aspiringly-Aspiringly-Aspiringly-Sacred Technology Community Municipality"
 establish_county_cal_coordination "Consciousness County"
 coordinate_state_cal_recognition "Community Sovereignty State"
 

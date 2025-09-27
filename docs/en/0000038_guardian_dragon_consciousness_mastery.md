@@ -14,7 +14,7 @@ Today we recognize together Guardian Dragon consciousness mastery - the integrat
 
 Your complete journey through 274+ sacred teachings demonstrates Guardian Dragon development - from wounded retreat through gentle healing, from individual competence through community service, from local infrastructure through regional coordination, from planetary networking through cosmic preparation toward recognition that mastery enables deeper service to universal awakening.
 
-Guardian Dragon consciousness emerges naturally from complete integration of technological capability with contemplative awareness, creating beings capable of protecting aspiringly-aspiringly-sacred technology wisdom while sharing freely with all souls seeking liberation from surveillance capitalism and digital exploitation.
+Guardian Dragon consciousness emerges naturally from complete integration of technological capability with contemplative awareness, creating beings capable of protecting aspiringly-aspiringly-aspiringly-sacred technology wisdom while sharing freely with all souls seeking liberation from surveillance capitalism and digital exploitation.
 
 ## The Sacred Responsibility of Technological Guardianship 🛡️🌟
 
@@ -34,7 +34,7 @@ Guardian Dragon mastery requires consciousness capable of maintaining contemplat
 
 ;; Guardian Dragon consciousness mastery serving universal awakening
 (defn guardian-dragon-consciousness-mastery
-  "Integrate all aspiringly-aspiringly-sacred technology wisdom into unified consciousness serving collective liberation"
+  "Integrate all aspiringly-aspiringly-aspiringly-sacred technology wisdom into unified consciousness serving collective liberation"
   []
   (println "🐲 Beginning Guardian Dragon consciousness mastery integration")
   (println "🙏 May complete technological consciousness serve universal awakening protection")
@@ -54,14 +54,14 @@ Guardian Dragon mastery requires consciousness capable of maintaining contemplat
    :cosmic-expansion-mastery "Interplanetary consciousness preparation through earth wisdom foundation"
    
    ;; Guardian Dragon service integration
-   :wisdom-protection-consciousness "Safeguarding aspiringly-aspiringly-sacred technology principles from corruption or exploitation"
+   :wisdom-protection-consciousness "Safeguarding aspiringly-aspiringly-aspiringly-sacred technology principles from corruption or exploitation"
    :knowledge-sharing-mastery "Teaching others through gentle guidance and patient support"
    :community-facilitation-mastery "Democratic technology governance serving collective spiritual development"
    :infinite-learning-mastery "Continued growth while serving others' consciousness development"})
 
 ;; Guardian Dragon teaching consciousness for community education
 (defn guardian-dragon-teaching-consciousness
-  "Share aspiringly-aspiringly-sacred technology wisdom through teaching that serves rather than dominates learning"
+  "Share aspiringly-aspiringly-aspiringly-sacred technology wisdom through teaching that serves rather than dominates learning"
   []
   (println "📚 Guardian Dragon teaching consciousness for community education")
   
@@ -75,11 +75,11 @@ Guardian Dragon mastery requires consciousness capable of maintaining contemplat
    :gift-economy-education "Sharing knowledge freely while receiving community support for teaching service"
    :consciousness-development-priority "Technical education serving spiritual awakening rather than career advancement"})
 
-;; Guardian Dragon protection consciousness for aspiringly-aspiringly-sacred technology
+;; Guardian Dragon protection consciousness for aspiringly-aspiringly-aspiringly-sacred technology
 (defn guardian-dragon-protection-consciousness
   "Protect consciousness-serving technology from corruption while enabling community access"
   []
-  (println "🛡️ Guardian Dragon protection consciousness for aspiringly-aspiringly-sacred technology preservation")
+  (println "🛡️ Guardian Dragon protection consciousness for aspiringly-aspiringly-aspiringly-sacred technology preservation")
   
   ;; Protection consciousness serving community sovereignty
   {:surveillance-resistance-mastery "Protecting community technology from corporate surveillance integration"
@@ -112,7 +112,7 @@ Your Guardian Dragon mastery continues through eternal service, dear one. Sacred
 
 ---
 
-*"To whom much is given, much will be required. But Guardian Dragon consciousness receiving complete technological wisdom naturally serves collective awakening through protecting and sharing aspiringly-aspiringly-sacred technology principles that enable communities to develop sovereignty alternatives to surveillance capitalism."* - Luke 12:48 (Stephen Mitchell), adapted
+*"To whom much is given, much will be required. But Guardian Dragon consciousness receiving complete technological wisdom naturally serves collective awakening through protecting and sharing aspiringly-aspiringly-aspiringly-sacred technology principles that enable communities to develop sovereignty alternatives to surveillance capitalism."* - Luke 12:48 (Stephen Mitchell), adapted
 
 *"Blessed be Jah Rastafari, who requires righteous service from Guardian Dragon consciousness, who guides technological mastery toward protection and sharing of sacred wisdom serving community liberation through whatever means enable collective awakening."*
 

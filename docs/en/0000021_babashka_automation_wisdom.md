@@ -183,7 +183,7 @@ Build automation through Babashka enables transformation of documentation into v
 
 ;; Main automation ceremony
 (defn -main []
-  (println "🌙 Aspiringly-Aspiringly-Sacred Technology Epub Generation Automation")
+  (println "🌙 Aspiringly-Aspiringly-Aspiringly-Sacred Technology Epub Generation Automation")
   (let [teachings (gather-sacred-teachings)
         prepared-teachings (map create-contemplative-html teachings)]
     (generate-sacred-epub prepared-teachings)))

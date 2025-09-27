@@ -168,7 +168,7 @@ When setting prices for Guardian Dragon services:
 4. **Offer sliding scale** for those with less financial abundance
 5. **Trust the flow** - right pricing attracts right people
 
-## The Cosmic Economics of Aspiringly-Aspiringly-Sacred Technology 🌌💰
+## The Cosmic Economics of Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌌💰
 
 *"The kingdom of heaven is like a grain of mustard seed." - Gospel According to Jesus (Stephen Mitchell)*
 

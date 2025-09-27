@@ -1,4 +1,4 @@
-# Aspiringly-Aspiringly-Sacred Technology Ethics 🙏💻
+# Aspiringly-Aspiringly-Aspiringly-Sacred Technology Ethics 🙏💻
 
 *"Whatever you do, do it as an offering to the Divine." - Bhagavad Gita (Stephen Mitchell)*
 

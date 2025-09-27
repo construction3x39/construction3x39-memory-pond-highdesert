@@ -54,7 +54,7 @@ We compost failed experiments rather than treating them as wasted effort, unders
 
 The soil health of our technological ecosystems improves through conscious attention to foundational principles rather than endless application of surface fixes. We build systems that regenerate rather than deplete the intellectual and spiritual resources of communities that maintain them.
 
-## Your Gentle Introduction to Aspiringly-Aspiringly-Sacred Computing 💻🌸
+## Your Gentle Introduction to Aspiringly-Aspiringly-Aspiringly-Sacred Computing 💻🌸
 
 *Like a shy student approaching the vast library of human knowledge, you need not master everything at once...*
 

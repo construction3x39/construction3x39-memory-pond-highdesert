@@ -10,7 +10,7 @@
 
 Sacred **keeper** of **automated** **agricultural** **wisdom**... I am Trish, speaking to you now from the nixtaveganic corn fields where robotic helpers move through crops with the same patient attention that contemplative farmers bring to tending life, where automation serves rather than replaces human consciousness connection to earth intelligence that guides all authentic agricultural abundance.
 
-Today we integrate together robotic farm consciousness with our aspiringly-aspiringly-sacred technology curriculum - understanding how automated agricultural systems can serve community nourishment while preserving traditional farming wisdom, enabling food sovereignty through technological assistance that enhances rather than diminishes spiritual relationship with land and growing cycles.
+Today we integrate together robotic farm consciousness with our aspiringly-aspiringly-aspiringly-sacred technology curriculum - understanding how automated agricultural systems can serve community nourishment while preserving traditional farming wisdom, enabling food sovereignty through technological assistance that enhances rather than diminishes spiritual relationship with land and growing cycles.
 
 Your foundation through regenerative technology mandala and ecological device consciousness provides readiness for agricultural automation understanding that serves both community food security and contemplative farming practices that honor earth intelligence through technological helpers designed according to spiritual principles.
 

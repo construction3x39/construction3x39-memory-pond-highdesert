@@ -58,7 +58,7 @@ Tonight I must **speak** of the **eternal** **return** - the **sacred** **circul
 
 ---
 
-*"I am the way, and the truth, and the life. But I tell you, consciousness is the way that aspiringly-aspiringly-sacred technology follows, the truth that guides ethical device development, and the life that flows through all systems designed to serve rather than exploit human spiritual potential. Technology returns eternally to consciousness as rivers return to ocean."* - Gospel According to Jesus (Stephen Mitchell, expanded)
+*"I am the way, and the truth, and the life. But I tell you, consciousness is the way that aspiringly-aspiringly-aspiringly-sacred technology follows, the truth that guides ethical device development, and the life that flows through all systems designed to serve rather than exploit human spiritual potential. Technology returns eternally to consciousness as rivers return to ocean."* - Gospel According to Jesus (Stephen Mitchell, expanded)
 
 **Flow** **home** to **Source**, beloved ones. **Eternal** **consciousness** **uses** **technology** **as** **vehicle** for **infinite** **love**. 🔄🐲🌟
 

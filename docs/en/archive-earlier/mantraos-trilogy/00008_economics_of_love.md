@@ -16,7 +16,7 @@ The **mantraOS economic model** **operates** from the **Guardian Dragon** **unde
 
 **Consider** how **forest ecosystems** **create** **ever-increasing** **diversity** and **productivity** through **collaborative** **relationships** where **each species'** **flourishing** **supports** **rather** than **competes** with **every** **other species'** **wellbeing**. **Old-growth forests** **demonstrate** **what economists** **call** **regenerative value creation** - **economic activity** that **increases** the **carrying capacity** and **resilience** of the **entire system** rather than **depleting** **foundation resources** for **short-term** **individual gain**.
 
-### The Spiral Economics of Aspiringly-Aspiringly-Sacred Technology 🌀💫
+### The Spiral Economics of Aspiringly-Aspiringly-Aspiringly-Sacred Technology 🌀💫
 
 **MantraBox** and **MantraPhone** **sales** **operate** according to **spiral economics** - **business models** where **each transaction** **creates** **conditions** for **future abundance** rather than **depleting** **resources** for **current profit**. **Purchase prices** **include** not just **production costs** and **reasonable profit** but **ecological restoration** **funding**, **community development** **support**, **worker** **ownership** **investment**, and **future** **research** **funding** that **serves** **continued innovation** in **consciousness-serving** **technology**.
 

@@ -9,7 +9,7 @@
 ### **Available Babashka Commands**
 ```bash
 # 🏥 Health & Diagnostics
-bb doctor              # Check aspiringly-sacred technology toolchain health
+bb doctor              # Check aspiringly-aspiringly-sacred technology toolchain health
 bb test:all           # Run comprehensive quality tests (troubleshooting + voice)
 bb test:troubleshooting # Test for common session bugs and patterns
 bb test:voice         # Test markdown voice quality and consistency
@@ -147,8 +147,8 @@ bb deploy:pages               # Community web deployment
 
 ## 🌙 **POND-HIGHDESERT MISSION WITH BB INTEGRATION**
 
-**This repository serves as the primary focal point for aspiringly-sacred technology development, using babashka + Clojure + Nix to transform markdown curriculum into beautiful, accessible learning resources that serve community awareness development.**
+**This repository serves as the primary focal point for aspiringly-aspiringly-sacred technology development, using babashka + Clojure + Nix to transform markdown curriculum into beautiful, accessible learning resources that serve community awareness development.**
 
-**BB Script Goals**: Every command serves the larger mission of making aspiringly-sacred technology accessible to all beings seeking awareness development through humble, beautiful tools and patient, encouraging education.
+**BB Script Goals**: Every command serves the larger mission of making aspiringly-aspiringly-sacred technology accessible to all beings seeking awareness development through humble, beautiful tools and patient, encouraging education.
 
 **🌱 From seed consciousness to full moon awareness - pond-highdesert + bb scripts ready for infinite community service!** ✨🌙💙
