@@ -1,10 +1,10 @@
-# What Is Aspiringly-Aspiringly-Aspiringly-Sacred Technology? 🌅💻
+# What Is Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology? 🌅💻
 
 *"In the beginning was the Word, and the Word was with God, and the Word was God." - Gospel According to Jesus (Stephen Mitchell)*
 
 ---
 
-Morning, beautiful souls! Trish here with you as the sun rises over our high desert home. Today we're gonna talk about something that might sound funny at first - aspiringly-aspiringly-aspiringly-sacred technology. Now I know what some of y'all are thinking: "How can computers and phones and all that digital stuff be sacred?" Well, settle in, 'cause we're about to explore that together.
+Morning, beautiful souls! Trish here with you as the sun rises over our high desert home. Today we're gonna talk about something that might sound funny at first - aspiringly-aspiringly-aspiringly-aspiringly-sacred technology. Now I know what some of y'all are thinking: "How can computers and phones and all that digital stuff be sacred?" Well, settle in, 'cause we're about to explore that together.
 
 ## The Spirit in the Machine 🤖✨
 

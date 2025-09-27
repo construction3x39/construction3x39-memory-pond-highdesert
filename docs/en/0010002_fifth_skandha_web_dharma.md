@@ -29,7 +29,7 @@ HTML markup becomes meditation on conscious information architecture that serves
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning Community</title>
+    <title>Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning Community</title>
     <meta name="description" content="Contemplative technical education that serves spiritual development">
     
     <!-- No tracking, no surveillance, no data extraction -->
@@ -43,7 +43,7 @@ HTML markup becomes meditation on conscious information architecture that serves
     
     <header role="banner">
         <nav role="navigation" aria-label="Main navigation">
-            <h1>🌙 Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning</h1>
+            <h1>🌙 Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning</h1>
             <ul class="nav-links">
                 <li><a href="/">Home</a></li>
                 <li><a href="/learning">Learning Path</a></li>

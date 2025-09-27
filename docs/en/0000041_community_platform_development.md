@@ -208,7 +208,7 @@ enable_metrics: false
 echo "💬 Creating sacred community communication spaces"
 
 # General community coordination
-matrix-cli create-room "Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning" \
+matrix-cli create-room "Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Aspiringly-Sacred Technology Learning" \
   --topic "Gentle technical education serving consciousness development" \
   --private --invite-only
 
@@ -225,7 +225,7 @@ matrix-cli create-room "Contemplative Practice" \
 echo "✨ Community communication spaces blessed for collective consciousness"
 ```
 
-## The Aspiringly-Sacred Development of Consensus Platforms 🗳️💝
+## The Aspiringly-Aspiringly-Sacred Development of Consensus Platforms 🗳️💝
 
 *"Uddhava asked: 'How should consciousness communities make decisions that affect collective wellbeing?' Krishna replied: 'When individual ego attachment dissolves in service to universal awakening, collective wisdom emerges naturally that serves purposes greater than any individual could envision through isolated thinking.'"* - Consensus development wisdom
 
